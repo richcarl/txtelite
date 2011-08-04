@@ -1,0 +1,25 @@
+j zaonce
+f 99
+j bemaera
+f 99
+j ensoreus
+f 99
+b narc 99
+j zaalela
+s narc 99
+j ensoreus
+f 99
+b narc 99
+j zaalela
+s narc 99
+j ensoreus
+f 99
+cash -400
+hold 35
+b narc 99
+j zaalela
+s narc 99
+b furs 99
+j ensoreus
+s furs 99
+q

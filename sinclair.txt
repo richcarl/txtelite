@@ -1,0 +1,4805 @@
+rand
+b Liqu 2
+b Furs 1
+j ZAONCE
+s Liqu 2
+s Furs 1
+f 5.7
+b Narc 5
+j BEMAERA
+s Narc 5
+f 6.9
+b Food 3
+b Furs 8
+j ENSOREUS
+s Food 3
+s Furs 8
+f 5.3
+b Comp 3
+b Allo 1
+j ISINOR
+s Comp 3
+s Allo 1
+f 6.9
+cash -400
+hold 35
+b Food 2
+b Slav 4
+b Furs 6
+j TIONISLA
+s Food 2
+s Slav 4
+s Furs 6
+f 3.6
+b Narc 25
+j ISINOR
+s Narc 25
+f 3.6
+b Furs 35
+b Gold 1
+b Plat 10
+j ENSOREUS
+s Furs 35
+s Gold 1
+s Plat 10
+f 6.9
+b Narc 35
+j ARARUS
+s Narc 35
+f 2.6
+b Slav 4
+b Liqu 31
+b Gold 10
+b Plat 6
+b Gem- 2
+j ENSOREUS
+s Slav 4
+s Liqu 31
+s Gold 10
+s Plat 6
+s Gem- 2
+f 2.6
+b Comp 35
+j ARARUS
+s Comp 35
+f 2.6
+b Slav 5
+b Furs 30
+b Gold 12
+b Plat 8
+b Gem- 4
+j ENSOREUS
+s Slav 5
+s Furs 30
+s Gold 12
+s Plat 8
+s Gem- 4
+f 2.6
+b Narc 32
+b Comp 3
+j ATRISO
+s Narc 32
+s Comp 3
+f 4.4
+b Radi 10
+b Liqu 25
+b Gold 12
+b Gem- 4
+j ENSOREUS
+s Radi 10
+s Liqu 25
+s Gold 12
+s Gem- 4
+f 4.4
+b Comp 35
+b Plat 59
+j ISINOR
+s Comp 35
+s Plat 59
+f 6.9
+b Liqu 17
+b Furs 18
+b Gold 16
+b Plat 28
+b Gem- 8
+j TIONISLA
+s Liqu 17
+s Furs 18
+s Gold 16
+s Plat 28
+s Gem- 8
+f 3.6
+b Narc 35
+j QUTIRI
+s Narc 35
+f 4.2
+b Comp 35
+j ISINOR
+s Comp 35
+f 3.2
+b Furs 35
+b Gold 9
+b Plat 13
+b Gem- 9
+j ENSOREUS
+s Furs 35
+s Gold 9
+s Plat 13
+s Gem- 9
+f 6.9
+b Narc 35
+j ARARUS
+s Narc 35
+f 2.6
+b Slav 7
+b Furs 28
+b Gold 11
+b Plat 7
+b Gem- 3
+j ENSOREUS
+s Slav 7
+s Furs 28
+s Gold 11
+s Plat 7
+s Gem- 3
+f 2.6
+b Narc 32
+b Comp 3
+j ARARUS
+s Narc 32
+s Comp 3
+f 2.6
+b Furs 35
+b Gold 13
+b Plat 17
+b Gem- 13
+j ENSOREUS
+s Furs 35
+s Gold 13
+s Plat 17
+s Gem- 13
+f 2.6
+b Narc 32
+b Comp 3
+j ARARUS
+s Narc 32
+s Comp 3
+f 2.6
+b Slav 2
+b Furs 33
+b Gold 15
+b Plat 11
+b Gem- 7
+j ENSOREUS
+s Slav 2
+s Furs 33
+s Gold 15
+s Plat 11
+s Gem- 7
+f 2.6
+b Narc 35
+j ARARUS
+s Narc 35
+f 2.6
+b Furs 35
+b Gold 9
+b Plat 21
+b Gem- 1
+j ENSOREUS
+s Furs 35
+s Gold 9
+s Plat 21
+s Gem- 1
+f 2.6
+b Narc 24
+b Comp 11
+j ISINOR
+s Narc 24
+s Comp 11
+f 6.9
+b Liqu 35
+b Gold 11
+b Plat 15
+b Gem- 11
+j TIONISLA
+s Liqu 35
+s Gold 11
+s Plat 15
+s Gem- 11
+f 3.6
+b Narc 35
+b Plat 62
+j QUTIRI
+s Narc 35
+s Plat 62
+f 4.2
+b Comp 35
+j ISINOR
+s Comp 35
+f 3.2
+b Liqu 1
+b Furs 34
+b Gold 16
+b Plat 12
+b Gem- 8
+j TIONISLA
+s Liqu 1
+s Furs 34
+s Gold 16
+s Plat 12
+s Gem- 8
+f 3.6
+b Narc 35
+b Plat 7
+j ZAALELA
+s Narc 35
+s Plat 7
+f 6.3
+b Furs 35
+b Gold 9
+b Plat 28
+b Gem- 9
+j ENSOREUS
+s Furs 35
+s Gold 9
+s Plat 28
+s Gem- 9
+f 2.5
+b Narc 32
+b Comp 3
+j ATRISO
+s Narc 32
+s Comp 3
+f 4.4
+b Liqu 31
+b Furs 4
+b Gold 10
+b Plat 28
+j ENSOREUS
+s Liqu 31
+s Furs 4
+s Gold 10
+s Plat 28
+f 4.4
+b Narc 35
+j ISINOR
+s Narc 35
+f 6.9
+b Slav 18
+b Liqu 9
+b Furs 8
+b Gold 14
+b Plat 18
+b Gem- 14
+j ENSOREUS
+s Slav 18
+s Liqu 9
+s Furs 8
+s Gold 14
+s Plat 18
+s Gem- 14
+f 6.9
+b Narc 32
+b Comp 3
+j ATRISO
+s Narc 32
+s Comp 3
+f 4.4
+b Slav 10
+b Furs 25
+b Gold 14
+b Plat 16
+j ENSOREUS
+s Slav 10
+s Furs 25
+s Gold 14
+s Plat 16
+f 4.4
+b Narc 24
+b Comp 11
+j ARARUS
+s Narc 24
+s Comp 11
+f 2.6
+b Liqu 7
+b Furs 28
+b Gold 10
+b Plat 6
+b Gem- 2
+j ENSOREUS
+s Liqu 7
+s Furs 28
+s Gold 10
+s Plat 6
+s Gem- 2
+f 2.6
+b Narc 35
+j ISINOR
+s Narc 35
+f 6.9
+b Furs 35
+b Gold 12
+b Plat 8
+b Gem- 4
+j TIONISLA
+s Furs 35
+s Gold 12
+s Plat 8
+s Gem- 4
+f 3.6
+b Narc 35
+j ISINOR
+s Narc 35
+f 3.6
+b Furs 35
+b Gold 14
+b Gem- 6
+j ENSOREUS
+s Furs 35
+s Gold 14
+s Gem- 6
+f 6.9
+b Narc 35
+b Plat 59
+j ARARUS
+s Narc 35
+s Plat 59
+f 2.6
+b Furs 35
+b Gold 16
+b Plat 28
+b Gem- 8
+j ENSOREUS
+s Furs 35
+s Gold 16
+s Plat 28
+s Gem- 8
+f 2.6
+b Narc 32
+b Comp 3
+j ISINOR
+s Narc 32
+s Comp 3
+f 6.9
+b Liqu 31
+b Furs 4
+b Gold 10
+b Plat 14
+b Gem- 10
+j ENSOREUS
+s Liqu 31
+s Furs 4
+s Gold 10
+s Plat 14
+s Gem- 10
+f 6.9
+b Narc 35
+j ISINOR
+s Narc 35
+f 6.9
+b Furs 35
+b Gold 12
+b Plat 16
+j ZAONCE
+s Furs 35
+s Gold 12
+s Plat 16
+f 5.7
+b Narc 35
+b Plat 59
+j LAVE
+s Narc 35
+s Plat 59
+f 5.7
+b Liqu 29
+b Furs 6
+b Gold 12
+b Gem- 12
+j ZAONCE
+s Liqu 29
+s Furs 6
+s Gold 12
+s Gem- 12
+f 5.7
+b Narc 19
+b Comp 16
+b Plat 5
+j ISINOR
+s Narc 19
+s Comp 16
+s Plat 5
+f 5.7
+b Liqu 9
+b Furs 26
+b Gold 16
+j ENSOREUS
+s Liqu 9
+s Furs 26
+s Gold 16
+f 6.9
+b Narc 35
+j ARARUS
+s Narc 35
+f 2.6
+b Furs 35
+b Gold 10
+b Plat 22
+b Gem- 2
+j ENSOREUS
+s Furs 35
+s Gold 10
+s Plat 22
+s Gem- 2
+f 2.6
+b Narc 35
+j ATRISO
+s Narc 35
+f 4.4
+b Slav 12
+b Liqu 23
+b Gold 10
+b Plat 20
+b Gem- 2
+j ENSOREUS
+s Slav 12
+s Liqu 23
+s Gold 10
+s Plat 20
+s Gem- 2
+f 4.4
+b Narc 16
+b Comp 19
+j BEMAERA
+s Narc 16
+s Comp 19
+f 5.3
+b Furs 35
+b Gold 13
+b Plat 8
+b Gem- 5
+j ENSOREUS
+s Furs 35
+s Gold 13
+s Plat 8
+s Gem- 5
+f 5.3
+b Narc 35
+j ZAALELA
+s Narc 35
+f 2.5
+b Furs 35
+b Gold 15
+b Plat 10
+b Gem- 7
+j ENSOREUS
+s Furs 35
+s Gold 15
+s Plat 10
+s Gem- 7
+f 2.5
+b Narc 35
+b Plat 5
+j ATRISO
+s Narc 35
+s Plat 5
+f 4.4
+b Slav 4
+b Liqu 29
+b Furs 2
+b Gold 8
+b Plat 26
+b Gem- 8
+j ENSOREUS
+s Slav 4
+s Liqu 29
+s Furs 2
+s Gold 8
+s Plat 26
+s Gem- 8
+f 4.4
+b Comp 35
+j ISINOR
+s Comp 35
+f 6.9
+b Furs 35
+b Gold 12
+b Plat 32
+j ENSOREUS
+s Furs 35
+s Gold 12
+s Plat 32
+f 6.9
+b Narc 24
+b Comp 11
+j ARARUS
+s Narc 24
+s Comp 11
+f 2.6
+b Furs 35
+b Gold 14
+b Plat 18
+b Gem- 14
+j ENSOREUS
+s Furs 35
+s Gold 14
+s Plat 18
+s Gem- 14
+f 2.6
+b Comp 35
+j ARARUS
+s Comp 35
+f 2.6
+b Furs 35
+b Gold 16
+b Plat 20
+j ENSOREUS
+s Furs 35
+s Gold 16
+s Plat 20
+f 2.6
+b Narc 35
+j BEMAERA
+s Narc 35
+f 5.3
+b Luxu 7
+b Mach 5
+j ISINOR
+s Luxu 7
+s Mach 5
+f 1.6
+b Liqu 8
+b Furs 27
+b Gold 9
+b Plat 5
+b Gem- 1
+j TIONISLA
+s Liqu 8
+s Furs 27
+s Gold 9
+s Plat 5
+s Gem- 1
+f 3.6
+b Narc 35
+b Plat 60
+j ZAALELA
+s Narc 35
+s Plat 60
+f 6.3
+b Furs 35
+b Gold 10
+b Plat 29
+b Gem- 10
+j ENSOREUS
+s Furs 35
+s Gold 10
+s Plat 29
+s Gem- 10
+f 2.5
+b Narc 35
+j ARARUS
+s Narc 35
+f 2.6
+b Slav 4
+b Furs 31
+b Gold 13
+b Plat 9
+b Gem- 5
+j ENSOREUS
+s Slav 4
+s Furs 31
+s Gold 13
+s Plat 9
+s Gem- 5
+f 2.6
+b Narc 35
+b Gem- 1
+j ATRISO
+s Narc 35
+s Gem- 1
+f 4.4
+b Food 1
+b Liqu 34
+j ENSOREUS
+s Food 1
+s Liqu 34
+f 4.4
+b Narc 16
+b Comp 19
+j ARARUS
+s Narc 16
+s Comp 19
+f 2.6
+b Furs 35
+b Gold 9
+b Plat 13
+b Gem- 9
+j ENSOREUS
+s Furs 35
+s Gold 9
+s Plat 13
+s Gem- 9
+f 2.6
+b Narc 35
+j ZAALELA
+s Narc 35
+f 2.5
+b Slav 2
+b Furs 33
+b Gold 10
+b Plat 5
+b Gem- 2
+j ENSOREUS
+s Slav 2
+s Furs 33
+s Gold 10
+s Plat 5
+s Gem- 2
+f 2.5
+b Narc 32
+b Comp 3
+j ARARUS
+s Narc 32
+s Comp 3
+f 2.6
+b Furs 35
+b Gold 13
+b Plat 17
+b Gem- 13
+j ENSOREUS
+s Furs 35
+s Gold 13
+s Plat 17
+s Gem- 13
+f 2.6
+b Narc 32
+b Comp 3
+j ARARUS
+s Narc 32
+s Comp 3
+f 2.6
+b Slav 2
+b Furs 33
+b Gold 15
+b Plat 11
+b Gem- 7
+j ENSOREUS
+s Slav 2
+s Furs 33
+s Gold 15
+s Plat 11
+s Gem- 7
+f 2.6
+b Narc 35
+j ZAALELA
+s Narc 35
+f 2.5
+b Liqu 1
+b Furs 34
+b Gold 8
+b Plat 19
+j ENSOREUS
+s Liqu 1
+s Furs 34
+s Gold 8
+s Plat 19
+f 2.5
+b Comp 35
+j BEMAERA
+s Comp 35
+f 5.3
+b Luxu 8
+b Mach 6
+b Gold 10
+j ISINOR
+s Luxu 8
+s Mach 6
+s Gold 10
+f 1.6
+b Slav 3
+b Furs 32
+b Gold 14
+b Plat 10
+b Gem- 6
+j TIONISLA
+s Slav 3
+s Furs 32
+s Gold 14
+s Plat 10
+s Gem- 6
+f 3.6
+b Narc 35
+b Gold 7
+j QUTIRI
+s Narc 35
+s Gold 7
+f 4.2
+b Comp 35
+j ISINOR
+s Comp 35
+f 3.2
+b Furs 35
+b Gold 15
+b Plat 19
+b Gem- 15
+j ENSOREUS
+s Furs 35
+s Gold 15
+s Plat 19
+s Gem- 15
+f 6.9
+b Narc 32
+b Comp 3
+j ISINOR
+s Narc 32
+s Comp 3
+f 6.9
+b Furs 35
+b Gold 9
+b Plat 29
+b Gem- 9
+j ZAONCE
+s Furs 35
+s Gold 9
+s Plat 29
+s Gem- 9
+f 5.7
+b Narc 35
+j LAVE
+s Narc 35
+f 5.7
+b Furs 35
+b Gold 9
+b Plat 19
+b Gem- 1
+j ZAONCE
+s Furs 35
+s Gold 9
+s Plat 19
+s Gem- 1
+f 5.7
+b Liqu 6
+b Allo 29
+b Plat 6
+j QUTIRI
+s Liqu 6
+s Allo 29
+s Plat 6
+f 4.7
+b Narc 32
+b Comp 3
+j ISINOR
+s Narc 32
+s Comp 3
+f 3.2
+b Slav 20
+b Narc 5
+b Furs 10
+b Gold 16
+b Plat 20
+j ENSOREUS
+s Slav 20
+s Narc 5
+s Furs 10
+s Gold 16
+s Plat 20
+f 6.9
+b Comp 35
+j ARARUS
+s Comp 35
+f 2.6
+b Liqu 7
+b Furs 28
+b Gold 10
+b Plat 6
+b Gem- 2
+j ENSOREUS
+s Liqu 7
+s Furs 28
+s Gold 10
+s Plat 6
+s Gem- 2
+f 2.6
+b Narc 35
+j ZAALELA
+s Narc 35
+f 2.5
+b Furs 35
+b Gold 11
+b Plat 6
+b Gem- 3
+j ENSOREUS
+s Furs 35
+s Gold 11
+s Plat 6
+s Gem- 3
+f 2.5
+b Comp 35
+j ISINOR
+s Comp 35
+f 6.9
+b Furs 35
+b Gold 14
+b Gem- 6
+j ENSOREUS
+s Furs 35
+s Gold 14
+s Gem- 6
+f 6.9
+b Narc 35
+b Plat 59
+j ZAALELA
+s Narc 35
+s Plat 59
+f 2.5
+b Furs 35
+b Gold 15
+b Plat 26
+b Gem- 7
+j ENSOREUS
+s Furs 35
+s Gold 15
+s Plat 26
+s Gem- 7
+f 2.5
+b Narc 32
+b Comp 3
+j ATRISO
+s Narc 32
+s Comp 3
+f 4.4
+b Furs 35
+b Gold 8
+b Plat 10
+b Gem- 8
+j ENSOREUS
+s Furs 35
+s Gold 8
+s Plat 10
+s Gem- 8
+f 4.4
+b Narc 35
+j ISINOR
+s Narc 35
+f 6.9
+b Furs 35
+b Gold 12
+b Plat 16
+j ENSOREUS
+s Furs 35
+s Gold 12
+s Plat 16
+f 6.9
+b Comp 35
+b Plat 57
+j ARARUS
+s Comp 35
+s Plat 57
+f 2.6
+b Liqu 11
+b Furs 24
+b Gold 14
+b Gem- 14
+j ENSOREUS
+s Liqu 11
+s Furs 24
+s Gold 14
+s Gem- 14
+f 2.6
+b Narc 35
+b Plat 3
+j ATRISO
+s Narc 35
+s Plat 3
+f 4.4
+b Liqu 27
+b Furs 8
+b Gold 14
+j ENSOREUS
+s Liqu 27
+s Furs 8
+s Gold 14
+f 4.4
+b Narc 35
+j BEMAERA
+s Narc 35
+f 5.3
+b Furs 35
+b Gold 9
+b Plat 20
+b Gem- 1
+j XEESLE
+s Furs 35
+s Gold 9
+s Plat 20
+s Gem- 1
+f 2.7
+b Furs 35
+b Gold 5
+b Plat 13
+j ENSOREUS
+s Furs 35
+s Gold 5
+s Plat 13
+f 3.0
+b Narc 35
+j ARARUS
+s Narc 35
+f 2.6
+b Furs 35
+b Gold 11
+b Plat 15
+b Gem- 11
+j ENSOREUS
+s Furs 35
+s Gold 11
+s Plat 15
+s Gem- 11
+f 2.6
+b Narc 35
+b Plat 60
+j ATRISO
+s Narc 35
+s Plat 60
+f 4.4
+b Furs 35
+b Gold 11
+b Gem- 3
+j ENSOREUS
+s Furs 35
+s Gold 11
+s Gem- 3
+f 4.4
+b Narc 35
+j ISINOR
+s Narc 35
+f 6.9
+b Slav 19
+b Liqu 7
+b Furs 9
+b Gold 15
+b Plat 19
+b Gem- 15
+j TIONISLA
+s Slav 19
+s Liqu 7
+s Furs 9
+s Gold 15
+s Plat 19
+s Gem- 15
+f 3.6
+b Narc 35
+j ISINOR
+s Narc 35
+f 3.6
+b Liqu 35
+b Gold 9
+b Plat 29
+b Gem- 9
+j ARONAR
+s Liqu 35
+s Gold 9
+s Plat 29
+s Gem- 9
+f 6.6
+b Narc 35
+b Gold 7
+j QUTIRI
+s Narc 35
+s Gold 7
+f 4.8
+b Comp 35
+j ISINOR
+s Comp 35
+f 3.2
+b Furs 35
+b Gold 14
+b Plat 18
+b Gem- 14
+j TIONISLA
+s Furs 35
+s Gold 14
+s Plat 18
+s Gem- 14
+f 3.6
+b Narc 35
+j ISINOR
+s Narc 35
+f 3.6
+b Furs 35
+b Gold 16
+b Plat 20
+j ENSOREUS
+s Furs 35
+s Gold 16
+s Plat 20
+f 6.9
+b Narc 35
+j ARARUS
+s Narc 35
+f 2.6
+b Slav 4
+b Liqu 31
+b Gold 10
+b Plat 6
+b Gem- 2
+j ENSOREUS
+s Slav 4
+s Liqu 31
+s Gold 10
+s Plat 6
+s Gem- 2
+f 2.6
+b Comp 35
+j ISINOR
+s Comp 35
+f 6.9
+b Slav 5
+b Furs 30
+b Gold 12
+b Plat 8
+b Gem- 4
+j ENSOREUS
+s Slav 5
+s Furs 30
+s Gold 12
+s Plat 8
+s Gem- 4
+f 6.9
+b Narc 32
+b Comp 3
+j ATRISO
+s Narc 32
+s Comp 3
+f 4.4
+b Radi 10
+b Liqu 25
+b Gold 12
+b Gem- 4
+j ENSOREUS
+s Radi 10
+s Liqu 25
+s Gold 12
+s Gem- 4
+f 4.4
+b Comp 35
+b Plat 59
+j ISINOR
+s Comp 35
+s Plat 59
+f 6.9
+b Liqu 17
+b Furs 18
+b Gold 16
+b Plat 28
+b Gem- 8
+j TIONISLA
+s Liqu 17
+s Furs 18
+s Gold 16
+s Plat 28
+s Gem- 8
+f 3.6
+b Narc 35
+j QUTIRI
+s Narc 35
+f 4.2
+b Comp 35
+j ISINOR
+s Comp 35
+f 3.2
+b Furs 35
+b Gold 9
+b Plat 13
+b Gem- 9
+j ENSOREUS
+s Furs 35
+s Gold 9
+s Plat 13
+s Gem- 9
+f 6.9
+b Narc 35
+j ARARUS
+s Narc 35
+f 2.6
+b Slav 7
+b Furs 28
+b Gold 11
+b Plat 7
+b Gem- 3
+j ENSOREUS
+s Slav 7
+s Furs 28
+s Gold 11
+s Plat 7
+s Gem- 3
+f 2.6
+b Narc 32
+b Comp 3
+j ARARUS
+s Narc 32
+s Comp 3
+f 2.6
+b Furs 35
+b Gold 13
+b Plat 17
+b Gem- 13
+j ENSOREUS
+s Furs 35
+s Gold 13
+s Plat 17
+s Gem- 13
+f 2.6
+b Narc 32
+b Comp 3
+j ISINOR
+s Narc 32
+s Comp 3
+f 6.9
+b Slav 2
+b Furs 33
+b Gold 15
+b Plat 11
+b Gem- 7
+j TIONISLA
+s Slav 2
+s Furs 33
+s Gold 15
+s Plat 11
+s Gem- 7
+f 3.6
+b Food 1
+b Radi 6
+b Liqu 1
+b Narc 27
+b Plat 10
+j QUTIRI
+s Food 1
+s Radi 6
+s Liqu 1
+s Narc 27
+s Plat 10
+f 4.2
+b Comp 35
+j ISINOR
+s Comp 35
+f 3.2
+b Furs 35
+b Gold 12
+b Plat 24
+b Gem- 4
+j ENSOREUS
+s Furs 35
+s Gold 12
+s Plat 24
+s Gem- 4
+f 6.9
+b Narc 35
+j ISINOR
+s Narc 35
+f 6.9
+b Slav 3
+b Furs 32
+b Gold 14
+b Plat 10
+b Gem- 6
+j ENSOREUS
+s Slav 3
+s Furs 32
+s Gold 14
+s Plat 10
+s Gem- 6
+f 6.9
+b Comp 35
+j ISINOR
+s Comp 35
+f 6.9
+b Liqu 1
+b Furs 34
+b Gold 16
+b Plat 12
+b Gem- 8
+j TIONISLA
+s Liqu 1
+s Furs 34
+s Gold 16
+s Plat 12
+s Gem- 8
+f 3.6
+b Narc 35
+b Plat 7
+j ZAALELA
+s Narc 35
+s Plat 7
+f 6.3
+b Furs 35
+b Gold 9
+b Plat 28
+b Gem- 9
+j ENSOREUS
+s Furs 35
+s Gold 9
+s Plat 28
+s Gem- 9
+f 2.5
+b Narc 32
+b Comp 3
+j ATRISO
+s Narc 32
+s Comp 3
+f 4.4
+b Liqu 31
+b Furs 4
+b Gold 10
+b Plat 28
+j ENSOREUS
+s Liqu 31
+s Furs 4
+s Gold 10
+s Plat 28
+f 4.4
+b Narc 35
+j ARARUS
+s Narc 35
+f 2.6
+b Slav 18
+b Liqu 9
+b Furs 8
+b Gold 14
+b Plat 18
+b Gem- 14
+j ENSOREUS
+s Slav 18
+s Liqu 9
+s Furs 8
+s Gold 14
+s Plat 18
+s Gem- 14
+f 2.6
+b Narc 32
+b Comp 3
+j ATRISO
+s Narc 32
+s Comp 3
+f 4.4
+b Slav 10
+b Furs 25
+b Gold 14
+b Plat 16
+j ENSOREUS
+s Slav 10
+s Furs 25
+s Gold 14
+s Plat 16
+f 4.4
+b Narc 24
+b Comp 11
+j ISINOR
+s Narc 24
+s Comp 11
+f 6.9
+b Liqu 7
+b Furs 28
+b Gold 10
+b Plat 6
+b Gem- 2
+j ENSOREUS
+s Liqu 7
+s Furs 28
+s Gold 10
+s Plat 6
+s Gem- 2
+f 6.9
+b Narc 35
+j ISINOR
+s Narc 35
+f 6.9
+b Furs 35
+b Gold 12
+b Plat 8
+b Gem- 4
+j TIONISLA
+s Furs 35
+s Gold 12
+s Plat 8
+s Gem- 4
+f 3.6
+b Narc 35
+j ISINOR
+s Narc 35
+f 3.6
+b Furs 35
+b Gold 14
+b Gem- 6
+j ENSOREUS
+s Furs 35
+s Gold 14
+s Gem- 6
+f 6.9
+b Narc 35
+b Plat 59
+j ISINOR
+s Narc 35
+s Plat 59
+f 6.9
+b Furs 35
+b Gold 16
+b Plat 28
+b Gem- 8
+j ENSOREUS
+s Furs 35
+s Gold 16
+s Plat 28
+s Gem- 8
+f 6.9
+b Narc 32
+b Comp 3
+j ARARUS
+s Narc 32
+s Comp 3
+f 2.6
+b Liqu 31
+b Furs 4
+b Gold 10
+b Plat 14
+b Gem- 10
+j ENSOREUS
+s Liqu 31
+s Furs 4
+s Gold 10
+s Plat 14
+s Gem- 10
+f 2.6
+b Narc 35
+j ISINOR
+s Narc 35
+f 6.9
+b Furs 35
+b Gold 12
+b Plat 16
+j ZAONCE
+s Furs 35
+s Gold 12
+s Plat 16
+f 5.7
+b Narc 35
+b Plat 59
+j LAVE
+s Narc 35
+s Plat 59
+f 5.7
+b Liqu 29
+b Furs 6
+b Gold 12
+b Gem- 12
+j ZAONCE
+s Liqu 29
+s Furs 6
+s Gold 12
+s Gem- 12
+f 5.7
+b Narc 19
+b Comp 16
+b Plat 5
+j ISINOR
+s Narc 19
+s Comp 16
+s Plat 5
+f 5.7
+b Liqu 9
+b Furs 26
+b Gold 16
+j ENSOREUS
+s Liqu 9
+s Furs 26
+s Gold 16
+f 6.9
+b Narc 35
+j ARARUS
+s Narc 35
+f 2.6
+b Furs 35
+b Gold 10
+b Plat 22
+b Gem- 2
+j ENSOREUS
+s Furs 35
+s Gold 10
+s Plat 22
+s Gem- 2
+f 2.6
+b Narc 35
+j ATRISO
+s Narc 35
+f 4.4
+b Slav 12
+b Liqu 23
+b Gold 10
+b Plat 20
+b Gem- 2
+j ENSOREUS
+s Slav 12
+s Liqu 23
+s Gold 10
+s Plat 20
+s Gem- 2
+f 4.4
+b Narc 16
+b Comp 19
+j ZAALELA
+s Narc 16
+s Comp 19
+f 2.5
+b Furs 35
+b Gold 13
+b Plat 8
+b Gem- 5
+j ENSOREUS
+s Furs 35
+s Gold 13
+s Plat 8
+s Gem- 5
+f 2.5
+b Narc 35
+j ZAALELA
+s Narc 35
+f 2.5
+b Furs 35
+b Gold 15
+b Plat 10
+b Gem- 7
+j ENSOREUS
+s Furs 35
+s Gold 15
+s Plat 10
+s Gem- 7
+f 2.5
+b Narc 35
+b Plat 5
+j ATRISO
+s Narc 35
+s Plat 5
+f 4.4
+b Slav 4
+b Liqu 29
+b Furs 2
+b Gold 8
+b Plat 26
+b Gem- 8
+j ENSOREUS
+s Slav 4
+s Liqu 29
+s Furs 2
+s Gold 8
+s Plat 26
+s Gem- 8
+f 4.4
+b Comp 35
+j ARARUS
+s Comp 35
+f 2.6
+b Furs 35
+b Gold 12
+b Plat 32
+j ENSOREUS
+s Furs 35
+s Gold 12
+s Plat 32
+f 2.6
+b Narc 24
+b Comp 11
+j ISINOR
+s Narc 24
+s Comp 11
+f 6.9
+b Furs 35
+b Gold 14
+b Plat 18
+b Gem- 14
+j TIONISLA
+s Furs 35
+s Gold 14
+s Plat 18
+s Gem- 14
+f 3.6
+b Narc 35
+b Gold 7
+b Gem- 7
+j QUTIRI
+s Narc 35
+s Gold 7
+s Gem- 7
+f 4.2
+b Comp 35
+j ISINOR
+s Comp 35
+f 3.2
+b Liqu 18
+b Furs 17
+b Gold 15
+b Gem- 7
+j ENSOREUS
+s Liqu 18
+s Furs 17
+s Gold 15
+s Gem- 7
+f 6.9
+b Narc 35
+j ISINOR
+s Narc 35
+f 6.9
+b Liqu 8
+b Furs 27
+b Gold 9
+b Plat 5
+b Gem- 1
+j TIONISLA
+s Liqu 8
+s Furs 27
+s Gold 9
+s Plat 5
+s Gem- 1
+f 3.6
+b Narc 35
+b Plat 60
+j BEMAERA
+s Narc 35
+s Plat 60
+f 4.5
+b Furs 35
+b Gold 10
+b Plat 29
+b Gem- 10
+j ENSOREUS
+s Furs 35
+s Gold 10
+s Plat 29
+s Gem- 10
+f 5.3
+b Narc 35
+j ARARUS
+s Narc 35
+f 2.6
+b Slav 4
+b Furs 31
+b Gold 13
+b Plat 9
+b Gem- 5
+j ENSOREUS
+s Slav 4
+s Furs 31
+s Gold 13
+s Plat 9
+s Gem- 5
+f 2.6
+b Narc 35
+b Gem- 1
+j ATRISO
+s Narc 35
+s Gem- 1
+f 4.4
+b Food 1
+b Liqu 34
+j ENSOREUS
+s Food 1
+s Liqu 34
+f 4.4
+b Narc 16
+b Comp 19
+j ARARUS
+s Narc 16
+s Comp 19
+f 2.6
+b Furs 35
+b Gold 9
+b Plat 13
+b Gem- 9
+j ENSOREUS
+s Furs 35
+s Gold 9
+s Plat 13
+s Gem- 9
+f 2.6
+b Narc 35
+j ZAALELA
+s Narc 35
+f 2.5
+b Slav 2
+b Furs 33
+b Gold 10
+b Plat 5
+b Gem- 2
+j ENSOREUS
+s Slav 2
+s Furs 33
+s Gold 10
+s Plat 5
+s Gem- 2
+f 2.5
+b Narc 32
+b Comp 3
+j ARARUS
+s Narc 32
+s Comp 3
+f 2.6
+b Furs 35
+b Gold 13
+b Plat 17
+b Gem- 13
+j ENSOREUS
+s Furs 35
+s Gold 13
+s Plat 17
+s Gem- 13
+f 2.6
+b Narc 32
+b Comp 3
+j ARARUS
+s Narc 32
+s Comp 3
+f 2.6
+b Slav 2
+b Furs 33
+b Gold 15
+b Plat 11
+b Gem- 7
+j ENSOREUS
+s Slav 2
+s Furs 33
+s Gold 15
+s Plat 11
+s Gem- 7
+f 2.6
+b Narc 35
+j BEMAERA
+s Narc 35
+f 5.3
+b Luxu 6
+b Mach 4
+b Allo 25
+b Gold 8
+b Plat 19
+j ISINOR
+s Luxu 6
+s Mach 4
+s Allo 25
+s Gold 8
+s Plat 19
+f 1.6
+b Furs 35
+b Gold 12
+b Plat 24
+b Gem- 4
+j ENSOREUS
+s Furs 35
+s Gold 12
+s Plat 24
+s Gem- 4
+f 6.9
+b Narc 35
+j ISINOR
+s Narc 35
+f 6.9
+b Slav 3
+b Furs 32
+b Gold 14
+b Plat 10
+b Gem- 6
+j TIONISLA
+s Slav 3
+s Furs 32
+s Gold 14
+s Plat 10
+s Gem- 6
+f 3.6
+b Narc 35
+b Gold 7
+j QUTIRI
+s Narc 35
+s Gold 7
+f 4.2
+b Comp 35
+j ISINOR
+s Comp 35
+f 3.2
+b Furs 35
+b Gold 15
+b Plat 19
+b Gem- 15
+j ENSOREUS
+s Furs 35
+s Gold 15
+s Plat 19
+s Gem- 15
+f 6.9
+b Narc 32
+b Comp 3
+j ISINOR
+s Narc 32
+s Comp 3
+f 6.9
+b Furs 35
+b Gold 9
+b Plat 29
+b Gem- 9
+j ZAONCE
+s Furs 35
+s Gold 9
+s Plat 29
+s Gem- 9
+f 5.7
+b Narc 35
+j LAVE
+s Narc 35
+f 5.7
+b Furs 35
+b Gold 9
+b Plat 19
+b Gem- 1
+j ZAONCE
+s Furs 35
+s Gold 9
+s Plat 19
+s Gem- 1
+f 5.7
+b Narc 19
+b Comp 16
+b Plat 6
+j ISINOR
+s Narc 19
+s Comp 16
+s Plat 6
+f 5.7
+b Furs 35
+b Gold 13
+b Gem- 13
+j TIONISLA
+s Furs 35
+s Gold 13
+s Gem- 13
+f 3.6
+b Narc 19
+b Allo 16
+b Plat 8
+j QUTIRI
+s Narc 19
+s Allo 16
+s Plat 8
+f 4.2
+b Comp 35
+j ISINOR
+s Comp 35
+f 3.2
+b Liqu 7
+b Furs 28
+b Gold 10
+b Plat 6
+b Gem- 2
+j ENSOREUS
+s Liqu 7
+s Furs 28
+s Gold 10
+s Plat 6
+s Gem- 2
+f 6.9
+b Narc 35
+j BEMAERA
+s Narc 35
+f 5.3
+b Furs 35
+b Gold 11
+b Plat 6
+b Gem- 3
+j ENSOREUS
+s Furs 35
+s Gold 11
+s Plat 6
+s Gem- 3
+f 5.3
+b Comp 35
+j ARARUS
+s Comp 35
+f 2.6
+b Furs 35
+b Gold 14
+b Gem- 6
+j ENSOREUS
+s Furs 35
+s Gold 14
+s Gem- 6
+f 2.6
+b Narc 35
+b Plat 59
+j ZAALELA
+s Narc 35
+s Plat 59
+f 2.5
+b Furs 35
+b Gold 15
+b Plat 26
+b Gem- 7
+j ENSOREUS
+s Furs 35
+s Gold 15
+s Plat 26
+s Gem- 7
+f 2.5
+b Narc 32
+b Comp 3
+j ATRISO
+s Narc 32
+s Comp 3
+f 4.4
+b Furs 35
+b Gold 8
+b Plat 10
+b Gem- 8
+j ENSOREUS
+s Furs 35
+s Gold 8
+s Plat 10
+s Gem- 8
+f 4.4
+b Narc 35
+j ARARUS
+s Narc 35
+f 2.6
+b Furs 35
+b Gold 12
+b Plat 16
+j ENSOREUS
+s Furs 35
+s Gold 12
+s Plat 16
+f 2.6
+b Comp 35
+b Plat 57
+j ARARUS
+s Comp 35
+s Plat 57
+f 2.6
+b Liqu 11
+b Furs 24
+b Gold 14
+b Gem- 14
+j ENSOREUS
+s Liqu 11
+s Furs 24
+s Gold 14
+s Gem- 14
+f 2.6
+b Narc 35
+b Plat 3
+j ATRISO
+s Narc 35
+s Plat 3
+f 4.4
+b Liqu 27
+b Furs 8
+b Gold 14
+j ENSOREUS
+s Liqu 27
+s Furs 8
+s Gold 14
+f 4.4
+b Narc 35
+j ZAALELA
+s Narc 35
+f 2.5
+b Furs 35
+b Gold 9
+b Plat 20
+b Gem- 1
+j ENSOREUS
+s Furs 35
+s Gold 9
+s Plat 20
+s Gem- 1
+f 2.5
+b Narc 35
+j ARARUS
+s Narc 35
+f 2.6
+b Slav 2
+b Liqu 33
+b Gold 12
+b Plat 24
+b Gem- 4
+j ENSOREUS
+s Slav 2
+s Liqu 33
+s Gold 12
+s Plat 24
+s Gem- 4
+f 2.6
+b Comp 35
+j ISINOR
+s Comp 35
+f 6.9
+b Slav 10
+b Liqu 25
+b Gold 14
+b Plat 10
+b Gem- 6
+j ENSOREUS
+s Slav 10
+s Liqu 25
+s Gold 14
+s Plat 10
+s Gem- 6
+f 6.9
+b Narc 35
+j ARARUS
+s Narc 35
+f 2.6
+b Liqu 33
+b Furs 2
+b Gold 16
+b Plat 12
+b Gem- 8
+j ENSOREUS
+s Liqu 33
+s Furs 2
+s Gold 16
+s Plat 12
+s Gem- 8
+f 2.6
+b Narc 35
+j ISINOR
+s Narc 35
+f 6.9
+b Liqu 15
+b Furs 20
+b Gold 10
+b Plat 30
+b Gem- 10
+j TIONISLA
+s Liqu 15
+s Furs 20
+s Gold 10
+s Plat 30
+s Gem- 10
+f 3.6
+b Narc 35
+j BEMAERA
+s Narc 35
+f 4.5
+b Furs 35
+b Gold 11
+b Plat 30
+j ENSOREUS
+s Furs 35
+s Gold 11
+s Plat 30
+f 5.3
+b Comp 35
+j ISINOR
+s Comp 35
+f 6.9
+b Furs 35
+b Gold 14
+b Plat 18
+b Gem- 14
+j TIONISLA
+s Furs 35
+s Gold 14
+s Plat 18
+s Gem- 14
+f 3.6
+b Narc 35
+j ISINOR
+s Narc 35
+f 3.6
+b Furs 35
+b Gold 16
+b Plat 20
+j ENSOREUS
+s Furs 35
+s Gold 16
+s Plat 20
+f 6.9
+b Narc 35
+j ISINOR
+s Narc 35
+f 6.9
+b Slav 4
+b Liqu 31
+b Gold 10
+b Plat 6
+b Gem- 2
+j ENSOREUS
+s Slav 4
+s Liqu 31
+s Gold 10
+s Plat 6
+s Gem- 2
+f 6.9
+b Comp 35
+j ARARUS
+s Comp 35
+f 2.6
+b Slav 5
+b Furs 30
+b Gold 12
+b Plat 8
+b Gem- 4
+j ENSOREUS
+s Slav 5
+s Furs 30
+s Gold 12
+s Plat 8
+s Gem- 4
+f 2.6
+b Narc 32
+b Comp 3
+j ATRISO
+s Narc 32
+s Comp 3
+f 4.4
+b Radi 10
+b Liqu 25
+b Gold 12
+b Gem- 4
+j ENSOREUS
+s Radi 10
+s Liqu 25
+s Gold 12
+s Gem- 4
+f 4.4
+b Comp 35
+b Plat 59
+j ISINOR
+s Comp 35
+s Plat 59
+f 6.9
+b Liqu 17
+b Furs 18
+b Gold 16
+b Plat 28
+b Gem- 8
+j TIONISLA
+s Liqu 17
+s Furs 18
+s Gold 16
+s Plat 28
+s Gem- 8
+f 3.6
+b Narc 35
+j QUTIRI
+s Narc 35
+f 4.2
+b Comp 35
+j ISINOR
+s Comp 35
+f 3.2
+b Furs 35
+b Gold 9
+b Plat 13
+b Gem- 9
+j ENSOREUS
+s Furs 35
+s Gold 9
+s Plat 13
+s Gem- 9
+f 6.9
+b Narc 35
+j ARARUS
+s Narc 35
+f 2.6
+b Slav 7
+b Furs 28
+b Gold 11
+b Plat 7
+b Gem- 3
+j ENSOREUS
+s Slav 7
+s Furs 28
+s Gold 11
+s Plat 7
+s Gem- 3
+f 2.6
+b Narc 32
+b Comp 3
+j ARARUS
+s Narc 32
+s Comp 3
+f 2.6
+b Furs 35
+b Gold 13
+b Plat 17
+b Gem- 13
+j ENSOREUS
+s Furs 35
+s Gold 13
+s Plat 17
+s Gem- 13
+f 2.6
+b Narc 32
+b Comp 3
+j ISINOR
+s Narc 32
+s Comp 3
+f 6.9
+b Slav 2
+b Furs 33
+b Gold 15
+b Plat 11
+b Gem- 7
+j TIONISLA
+s Slav 2
+s Furs 33
+s Gold 15
+s Plat 11
+s Gem- 7
+f 3.6
+b Food 1
+b Radi 6
+b Liqu 1
+b Narc 27
+b Plat 10
+j QUTIRI
+s Food 1
+s Radi 6
+s Liqu 1
+s Narc 27
+s Plat 10
+f 4.2
+b Comp 35
+j ISINOR
+s Comp 35
+f 3.2
+b Furs 35
+b Gold 12
+b Plat 24
+b Gem- 4
+j ENSOREUS
+s Furs 35
+s Gold 12
+s Plat 24
+s Gem- 4
+f 6.9
+b Narc 35
+j ARARUS
+s Narc 35
+f 2.6
+b Slav 3
+b Furs 32
+b Gold 14
+b Plat 10
+b Gem- 6
+j ENSOREUS
+s Slav 3
+s Furs 32
+s Gold 14
+s Plat 10
+s Gem- 6
+f 2.6
+b Comp 35
+j ISINOR
+s Comp 35
+f 6.9
+b Liqu 1
+b Furs 34
+b Gold 16
+b Plat 12
+b Gem- 8
+j TIONISLA
+s Liqu 1
+s Furs 34
+s Gold 16
+s Plat 12
+s Gem- 8
+f 3.6
+b Narc 35
+b Plat 7
+j BEMAERA
+s Narc 35
+s Plat 7
+f 4.5
+b Furs 35
+b Gold 9
+b Plat 28
+b Gem- 9
+j ENSOREUS
+s Furs 35
+s Gold 9
+s Plat 28
+s Gem- 9
+f 5.3
+b Narc 32
+b Comp 3
+j ATRISO
+s Narc 32
+s Comp 3
+f 4.4
+b Liqu 31
+b Furs 4
+b Gold 10
+b Plat 28
+j ENSOREUS
+s Liqu 31
+s Furs 4
+s Gold 10
+s Plat 28
+f 4.4
+b Narc 35
+j ARARUS
+s Narc 35
+f 2.6
+b Slav 18
+b Liqu 9
+b Furs 8
+b Gold 14
+b Plat 18
+b Gem- 14
+j ENSOREUS
+s Slav 18
+s Liqu 9
+s Furs 8
+s Gold 14
+s Plat 18
+s Gem- 14
+f 2.6
+b Narc 32
+b Comp 3
+j ATRISO
+s Narc 32
+s Comp 3
+f 4.4
+b Slav 10
+b Furs 25
+b Gold 14
+b Plat 16
+j ENSOREUS
+s Slav 10
+s Furs 25
+s Gold 14
+s Plat 16
+f 4.4
+b Narc 24
+b Comp 11
+j ARARUS
+s Narc 24
+s Comp 11
+f 2.6
+b Liqu 7
+b Furs 28
+b Gold 10
+b Plat 6
+b Gem- 2
+j ENSOREUS
+s Liqu 7
+s Furs 28
+s Gold 10
+s Plat 6
+s Gem- 2
+f 2.6
+b Narc 35
+j ISINOR
+s Narc 35
+f 6.9
+b Furs 35
+b Gold 12
+b Plat 8
+b Gem- 4
+j TIONISLA
+s Furs 35
+s Gold 12
+s Plat 8
+s Gem- 4
+f 3.6
+b Narc 35
+b Gold 5
+j QUTIRI
+s Narc 35
+s Gold 5
+f 4.2
+b Comp 35
+j TIONISLA
+s Comp 35
+f 4.2
+b Narc 11
+b Comp 24
+b Plat 61
+j ISINOR
+s Narc 11
+s Comp 24
+s Plat 61
+f 3.6
+b Furs 35
+b Gold 16
+b Plat 28
+b Gem- 8
+j ENSOREUS
+s Furs 35
+s Gold 16
+s Plat 28
+s Gem- 8
+f 6.9
+b Narc 32
+b Comp 3
+j ARARUS
+s Narc 32
+s Comp 3
+f 2.6
+b Liqu 31
+b Furs 4
+b Gold 10
+b Plat 14
+b Gem- 10
+j ENSOREUS
+s Liqu 31
+s Furs 4
+s Gold 10
+s Plat 14
+s Gem- 10
+f 2.6
+b Narc 35
+j ISINOR
+s Narc 35
+f 6.9
+b Furs 35
+b Gold 12
+b Plat 16
+j ZAONCE
+s Furs 35
+s Gold 12
+s Plat 16
+f 5.7
+b Narc 35
+b Plat 59
+j LAVE
+s Narc 35
+s Plat 59
+f 5.7
+b Luxu 15
+b Mach 15
+j REORTE
+s Luxu 15
+s Mach 15
+f 4.4
+b Slav 17
+b Liqu 11
+b Furs 7
+b Gold 13
+b Plat 17
+b Gem- 13
+j RELAES
+s Slav 17
+s Liqu 11
+s Furs 7
+s Gold 13
+s Plat 17
+s Gem- 13
+f 6.8
+b Narc 35
+j ZASOER
+s Narc 35
+f 1.0
+b Slav 6
+b Furs 29
+b Plat 9
+j RELAES
+s Slav 6
+s Furs 29
+s Plat 9
+f 1.0
+b Comp 35
+j RA
+s Comp 35
+f 2.7
+b Mine 35
+b Gold 9
+b Plat 21
+b Gem- 1
+j BEGEABI
+s Mine 35
+s Gold 9
+s Plat 21
+s Gem- 1
+f 5.8
+b Slav 2
+b Liqu 33
+b Gold 12
+b Plat 24
+b Gem- 4
+j RITILA
+s Slav 2
+s Liqu 33
+s Gold 12
+s Plat 24
+s Gem- 4
+f 6.8
+b Narc 35
+j DITIZA
+s Narc 35
+f 4.6
+b Furs 35
+b Gold 13
+b Plat 8
+b Gem- 5
+j ANLAMA
+s Furs 35
+s Gold 13
+s Plat 8
+s Gem- 5
+f 2.9
+b Narc 35
+j DITIZA
+s Narc 35
+f 2.9
+b Furs 35
+b Gold 15
+b Plat 10
+b Gem- 7
+j ANLAMA
+s Furs 35
+s Gold 15
+s Plat 10
+s Gem- 7
+f 2.9
+b Narc 35
+b Plat 5
+j REBIA
+s Narc 35
+s Plat 5
+f 7.0
+b Slav 4
+b Liqu 29
+b Furs 2
+b Gold 8
+b Plat 26
+b Gem- 8
+j ANLAMA
+s Slav 4
+s Liqu 29
+s Furs 2
+s Gold 8
+s Plat 26
+s Gem- 8
+f 7.0
+b Comp 35
+j TIINLEBI
+s Comp 35
+f 2.4
+b Furs 35
+b Gold 12
+b Plat 32
+j ANLAMA
+s Furs 35
+s Gold 12
+s Plat 32
+f 2.4
+b Narc 24
+b Comp 11
+j BEGEABI
+s Narc 24
+s Comp 11
+f 4.6
+b Furs 35
+b Gold 14
+b Plat 18
+b Gem- 14
+j ANLAMA
+s Furs 35
+s Gold 14
+s Plat 18
+s Gem- 14
+f 4.6
+b Comp 35
+j TIINLEBI
+s Comp 35
+f 2.4
+b Furs 35
+b Gold 16
+b Plat 20
+j ANLAMA
+s Furs 35
+s Gold 16
+s Plat 20
+f 2.4
+b Narc 35
+j DITIZA
+s Narc 35
+f 2.9
+b Radi 8
+b Slav 1
+b Liqu 26
+b Gold 9
+b Plat 4
+b Gem- 1
+j RITILA
+s Radi 8
+s Slav 1
+s Liqu 26
+s Gold 9
+s Plat 4
+s Gem- 1
+f 4.6
+b Narc 35
+j BEGEABI
+s Narc 35
+f 6.8
+b Allo 5
+b Furs 30
+b Plat 8
+b Gem- 4
+j TIINLEBI
+s Allo 5
+s Furs 30
+s Plat 8
+s Gem- 4
+f 6.7
+b Furs 35
+b Gold 11
+b Plat 31
+b Gem- 11
+j ANLAMA
+s Furs 35
+s Gold 11
+s Plat 31
+s Gem- 11
+f 2.4
+b Narc 35
+j TIINLEBI
+s Narc 35
+f 2.4
+b Slav 4
+b Furs 31
+b Gold 13
+b Plat 9
+b Gem- 5
+j ANLAMA
+s Slav 4
+s Furs 31
+s Gold 13
+s Plat 9
+s Gem- 5
+f 2.4
+b Narc 35
+b Gem- 1
+j REBIA
+s Narc 35
+s Gem- 1
+f 7.0
+b Food 1
+b Liqu 34
+j ANLAMA
+s Food 1
+s Liqu 34
+f 7.0
+b Narc 16
+b Comp 19
+j TIINLEBI
+s Narc 16
+s Comp 19
+f 2.4
+b Furs 35
+b Gold 9
+b Plat 13
+b Gem- 9
+j ANLAMA
+s Furs 35
+s Gold 9
+s Plat 13
+s Gem- 9
+f 2.4
+b Narc 35
+j DITIZA
+s Narc 35
+f 2.9
+b Slav 2
+b Furs 33
+b Gold 10
+b Plat 5
+b Gem- 2
+j ANLAMA
+s Slav 2
+s Furs 33
+s Gold 10
+s Plat 5
+s Gem- 2
+f 2.9
+b Narc 32
+b Comp 3
+j TIINLEBI
+s Narc 32
+s Comp 3
+f 2.4
+b Furs 35
+b Gold 13
+b Plat 17
+b Gem- 13
+j ANLAMA
+s Furs 35
+s Gold 13
+s Plat 17
+s Gem- 13
+f 2.4
+b Narc 32
+b Comp 3
+j TIINLEBI
+s Narc 32
+s Comp 3
+f 2.4
+b Slav 2
+b Furs 33
+b Gold 15
+b Plat 11
+b Gem- 7
+j ANLAMA
+s Slav 2
+s Furs 33
+s Gold 15
+s Plat 11
+s Gem- 7
+f 2.4
+b Narc 35
+j DITIZA
+s Narc 35
+f 2.9
+b Liqu 1
+b Furs 34
+b Gold 8
+b Plat 19
+j ANLAMA
+s Liqu 1
+s Furs 34
+s Gold 8
+s Plat 19
+f 2.9
+b Comp 35
+j TIINLEBI
+s Comp 35
+f 2.4
+b Liqu 35
+b Gold 11
+b Plat 15
+b Gem- 11
+j ANLAMA
+s Liqu 35
+s Gold 11
+s Plat 15
+s Gem- 11
+f 2.4
+b Comp 13
+b Allo 22
+b Plat 60
+j RITILA
+s Comp 13
+s Allo 22
+s Plat 60
+f 3.1
+b Narc 35
+b Gold 7
+j ANLAMA
+s Narc 35
+s Gold 7
+f 3.1
+b Comp 35
+j TIINLEBI
+s Comp 35
+f 2.4
+b Furs 35
+b Gold 15
+b Plat 19
+b Gem- 15
+j ANLAMA
+s Furs 35
+s Gold 15
+s Plat 19
+s Gem- 15
+f 2.4
+b Narc 32
+b Comp 3
+j TIINLEBI
+s Narc 32
+s Comp 3
+f 2.4
+b Furs 35
+b Gold 9
+b Plat 29
+b Gem- 9
+j ANLAMA
+s Furs 35
+s Gold 9
+s Plat 29
+s Gem- 9
+f 2.4
+b Comp 35
+j TIINLEBI
+s Comp 35
+f 2.4
+b Liqu 22
+b Furs 13
+b Gold 11
+b Plat 23
+b Gem- 3
+j ANLAMA
+s Liqu 22
+s Furs 13
+s Gold 11
+s Plat 23
+s Gem- 3
+f 2.4
+b Narc 35
+b Plat 4
+j TIINLEBI
+s Narc 35
+s Plat 4
+f 2.4
+b Furs 35
+b Gold 13
+b Plat 33
+b Gem- 13
+j ANLAMA
+s Furs 35
+s Gold 13
+s Plat 33
+s Gem- 13
+f 2.4
+b Narc 35
+j TIINLEBI
+s Narc 35
+f 2.4
+b Furs 35
+b Gold 15
+b Gem- 7
+j ANLAMA
+s Furs 35
+s Gold 15
+s Gem- 7
+f 2.4
+b Comp 35
+j TIINLEBI
+s Comp 35
+f 2.4
+b Furs 35
+b Gold 9
+b Plat 5
+b Gem- 1
+j ANLAMA
+s Furs 35
+s Gold 9
+s Plat 5
+s Gem- 1
+f 2.4
+b Narc 35
+b Plat 58
+j RITILA
+s Narc 35
+s Plat 58
+f 3.1
+b Narc 35
+j DITIZA
+s Narc 35
+f 4.6
+b Furs 35
+b Gold 13
+b Gem- 5
+j ANLAMA
+s Furs 35
+s Gold 13
+s Gem- 5
+f 2.9
+b Narc 35
+b Plat 59
+j DITIZA
+s Narc 35
+s Plat 59
+f 2.9
+b Furs 35
+b Gold 15
+b Plat 26
+b Gem- 7
+j ANLAMA
+s Furs 35
+s Gold 15
+s Plat 26
+s Gem- 7
+f 2.9
+b Narc 32
+b Comp 3
+j REBIA
+s Narc 32
+s Comp 3
+f 7.0
+b Furs 35
+b Gold 8
+b Plat 10
+b Gem- 8
+j ANLAMA
+s Furs 35
+s Gold 8
+s Plat 10
+s Gem- 8
+f 7.0
+b Narc 35
+j TIINLEBI
+s Narc 35
+f 2.4
+b Furs 35
+b Gold 12
+b Plat 16
+j ANLAMA
+s Furs 35
+s Gold 12
+s Plat 16
+f 2.4
+b Comp 35
+b Plat 57
+j BEGEABI
+s Comp 35
+s Plat 57
+f 4.6
+b Liqu 11
+b Furs 24
+b Gold 14
+b Gem- 14
+j ANLAMA
+s Liqu 11
+s Furs 24
+s Gold 14
+s Gem- 14
+f 4.6
+b Narc 35
+b Plat 3
+j REBIA
+s Narc 35
+s Plat 3
+f 7.0
+b Liqu 27
+b Furs 8
+b Gold 14
+j ANLAMA
+s Liqu 27
+s Furs 8
+s Gold 14
+f 7.0
+b Narc 35
+j DITIZA
+s Narc 35
+f 2.9
+b Furs 35
+b Gold 9
+b Plat 20
+b Gem- 1
+j ANLAMA
+s Furs 35
+s Gold 9
+s Plat 20
+s Gem- 1
+f 2.9
+b Narc 35
+j BEGEABI
+s Narc 35
+f 4.6
+b Liqu 33
+b Gem- 4
+j TIINLEBI
+s Liqu 33
+s Gem- 4
+f 6.7
+b Furs 35
+b Gold 11
+b Plat 15
+b Gem- 11
+j ANLAMA
+s Furs 35
+s Gold 11
+s Plat 15
+s Gem- 11
+f 2.4
+b Narc 35
+b Plat 60
+j REBIA
+s Narc 35
+s Plat 60
+f 7.0
+b Furs 35
+b Gold 11
+b Gem- 3
+j ANLAMA
+s Furs 35
+s Gold 11
+s Gem- 3
+f 7.0
+b Narc 35
+j TIINLEBI
+s Narc 35
+f 2.4
+b Slav 19
+b Liqu 7
+b Furs 9
+b Gold 15
+b Plat 19
+b Gem- 15
+j ANLAMA
+s Slav 19
+s Liqu 7
+s Furs 9
+s Gold 15
+s Plat 19
+s Gem- 15
+f 2.4
+b Comp 35
+j RITILA
+s Comp 35
+f 3.1
+b Narc 35
+j DITIZA
+s Narc 35
+f 4.6
+b Furs 35
+b Gold 11
+b Plat 30
+j ANLAMA
+s Furs 35
+s Gold 11
+s Plat 30
+f 2.9
+b Comp 35
+j TIINLEBI
+s Comp 35
+f 2.4
+b Furs 35
+b Gold 14
+b Plat 18
+b Gem- 14
+j RITILA
+s Furs 35
+s Gold 14
+s Plat 18
+s Gem- 14
+f 1.3
+b Narc 35
+j BEGEABI
+s Narc 35
+f 6.8
+b Furs 35
+b Gold 16
+b Plat 20
+j ANLAMA
+s Furs 35
+s Gold 16
+s Plat 20
+f 4.6
+b Narc 35
+j TIINLEBI
+s Narc 35
+f 2.4
+b Slav 4
+b Liqu 31
+b Gold 10
+b Plat 6
+b Gem- 2
+j ANLAMA
+s Slav 4
+s Liqu 31
+s Gold 10
+s Plat 6
+s Gem- 2
+f 2.4
+b Comp 35
+j TIINLEBI
+s Comp 35
+f 2.4
+b Slav 5
+b Furs 30
+b Gold 12
+b Plat 8
+b Gem- 4
+j ANLAMA
+s Slav 5
+s Furs 30
+s Gold 12
+s Plat 8
+s Gem- 4
+f 2.4
+b Narc 32
+b Comp 3
+j REBIA
+s Narc 32
+s Comp 3
+f 7.0
+b Radi 10
+b Liqu 25
+b Gold 12
+b Gem- 4
+j ANLAMA
+s Radi 10
+s Liqu 25
+s Gold 12
+s Gem- 4
+f 7.0
+b Comp 35
+b Plat 59
+j TIINLEBI
+s Comp 35
+s Plat 59
+f 2.4
+b Liqu 17
+b Furs 18
+b Gold 16
+b Plat 28
+b Gem- 8
+j RITILA
+s Liqu 17
+s Furs 18
+s Gold 16
+s Plat 28
+s Gem- 8
+f 1.3
+b Narc 35
+j ANLAMA
+s Narc 35
+f 3.1
+b Comp 35
+j TIINLEBI
+s Comp 35
+f 2.4
+b Furs 35
+b Gold 9
+b Plat 13
+b Gem- 9
+j ANLAMA
+s Furs 35
+s Gold 9
+s Plat 13
+s Gem- 9
+f 2.4
+b Narc 35
+j TIINLEBI
+s Narc 35
+f 2.4
+b Slav 7
+b Furs 28
+b Gold 11
+b Plat 7
+b Gem- 3
+j ANLAMA
+s Slav 7
+s Furs 28
+s Gold 11
+s Plat 7
+s Gem- 3
+f 2.4
+b Narc 32
+b Comp 3
+j TIINLEBI
+s Narc 32
+s Comp 3
+f 2.4
+b Furs 35
+b Gold 13
+b Plat 17
+b Gem- 13
+j ANLAMA
+s Furs 35
+s Gold 13
+s Plat 17
+s Gem- 13
+f 2.4
+b Narc 32
+b Comp 3
+j TIINLEBI
+s Narc 32
+s Comp 3
+f 2.4
+b Slav 2
+b Furs 33
+b Gold 15
+b Plat 11
+b Gem- 7
+j ANLAMA
+s Slav 2
+s Furs 33
+s Gold 15
+s Plat 11
+s Gem- 7
+f 2.4
+b Narc 35
+j TIINLEBI
+s Narc 35
+f 2.4
+b Furs 35
+b Gold 9
+b Plat 21
+b Gem- 1
+j ANLAMA
+s Furs 35
+s Gold 9
+s Plat 21
+s Gem- 1
+f 2.4
+b Narc 24
+b Comp 11
+j TIINLEBI
+s Narc 24
+s Comp 11
+f 2.4
+b Liqu 35
+b Gold 11
+b Plat 15
+b Gem- 11
+j RITILA
+s Liqu 35
+s Gold 11
+s Plat 15
+s Gem- 11
+f 1.3
+b Narc 35
+b Plat 62
+j ANLAMA
+s Narc 35
+s Plat 62
+f 3.1
+b Comp 35
+j BEGEABI
+s Comp 35
+f 4.6
+b Liqu 1
+b Furs 34
+b Gold 16
+b Plat 12
+b Gem- 8
+j RITILA
+s Liqu 1
+s Furs 34
+s Gold 16
+s Plat 12
+s Gem- 8
+f 6.8
+b Narc 35
+b Plat 7
+j DITIZA
+s Narc 35
+s Plat 7
+f 4.6
+b Furs 35
+b Gold 9
+b Plat 28
+b Gem- 9
+j ANLAMA
+s Furs 35
+s Gold 9
+s Plat 28
+s Gem- 9
+f 2.9
+b Narc 32
+b Comp 3
+j REBIA
+s Narc 32
+s Comp 3
+f 7.0
+b Liqu 31
+b Furs 4
+b Gold 10
+b Plat 28
+j ANLAMA
+s Liqu 31
+s Furs 4
+s Gold 10
+s Plat 28
+f 7.0
+b Narc 35
+j BEGEABI
+s Narc 35
+f 4.6
+b Slav 18
+b Liqu 9
+b Furs 8
+b Gold 14
+b Plat 18
+b Gem- 14
+j ANLAMA
+s Slav 18
+s Liqu 9
+s Furs 8
+s Gold 14
+s Plat 18
+s Gem- 14
+f 4.6
+b Narc 32
+b Comp 3
+j REBIA
+s Narc 32
+s Comp 3
+f 7.0
+b Slav 10
+b Furs 25
+b Gold 14
+b Plat 16
+j ANLAMA
+s Slav 10
+s Furs 25
+s Gold 14
+s Plat 16
+f 7.0
+b Narc 24
+b Comp 11
+j TIINLEBI
+s Narc 24
+s Comp 11
+f 2.4
+b Liqu 7
+b Furs 28
+b Gold 10
+b Plat 6
+b Gem- 2
+j ANLAMA
+s Liqu 7
+s Furs 28
+s Gold 10
+s Plat 6
+s Gem- 2
+f 2.4
+b Narc 35
+j BEGEABI
+s Narc 35
+f 4.6
+b Furs 35
+b Gold 12
+b Plat 8
+b Gem- 4
+j RITILA
+s Furs 35
+s Gold 12
+s Plat 8
+s Gem- 4
+f 6.8
+b Narc 35
+j BEGEABI
+s Narc 35
+f 6.8
+b Furs 35
+b Gold 14
+b Gem- 6
+j ANLAMA
+s Furs 35
+s Gold 14
+s Gem- 6
+f 4.6
+b Narc 35
+b Plat 59
+j TIINLEBI
+s Narc 35
+s Plat 59
+f 2.4
+b Furs 35
+b Gold 16
+b Plat 28
+b Gem- 8
+j ANLAMA
+s Furs 35
+s Gold 16
+s Plat 28
+s Gem- 8
+f 2.4
+b Narc 32
+b Comp 3
+j BEGEABI
+s Narc 32
+s Comp 3
+f 4.6
+b Liqu 31
+b Furs 4
+b Gold 10
+b Plat 14
+b Gem- 10
+j ANLAMA
+s Liqu 31
+s Furs 4
+s Gold 10
+s Plat 14
+s Gem- 10
+f 4.6
+b Narc 35
+j TIINLEBI
+s Narc 35
+f 2.4
+b Furs 35
+b Gold 12
+b Plat 16
+j ESTEONBI
+s Furs 35
+s Gold 12
+s Plat 16
+f 6.2
+b Narc 35
+b Plat 59
+j REBIA
+s Narc 35
+s Plat 59
+f 0.9
+b Liqu 29
+b Furs 6
+b Gold 12
+b Gem- 12
+j ANLAMA
+s Liqu 29
+s Furs 6
+s Gold 12
+s Gem- 12
+f 7.0
+b Narc 35
+b Plat 3
+j BEGEABI
+s Narc 35
+s Plat 3
+f 4.6
+b Liqu 9
+b Furs 26
+b Gold 16
+j ANLAMA
+s Liqu 9
+s Furs 26
+s Gold 16
+f 4.6
+b Narc 35
+j TIINLEBI
+s Narc 35
+f 2.4
+b Furs 35
+b Gold 10
+b Plat 22
+b Gem- 2
+j ANLAMA
+s Furs 35
+s Gold 10
+s Plat 22
+s Gem- 2
+f 2.4
+b Narc 35
+j REBIA
+s Narc 35
+f 7.0
+b Slav 12
+b Liqu 23
+b Gold 10
+b Gem- 2
+j RITILA
+s Slav 12
+s Liqu 23
+s Gold 10
+s Gem- 2
+f 6.1
+b Narc 35
+j DITIZA
+s Narc 35
+f 4.6
+b Furs 35
+b Gold 13
+b Plat 8
+b Gem- 5
+j ANLAMA
+s Furs 35
+s Gold 13
+s Plat 8
+s Gem- 5
+f 2.9
+b Narc 35
+j DITIZA
+s Narc 35
+f 2.9
+b Furs 35
+b Gold 15
+b Plat 10
+b Gem- 7
+j ANLAMA
+s Furs 35
+s Gold 15
+s Plat 10
+s Gem- 7
+f 2.9
+b Narc 35
+b Plat 5
+j REBIA
+s Narc 35
+s Plat 5
+f 7.0
+b Slav 4
+b Liqu 29
+b Furs 2
+b Gold 8
+b Plat 26
+b Gem- 8
+j ANLAMA
+s Slav 4
+s Liqu 29
+s Furs 2
+s Gold 8
+s Plat 26
+s Gem- 8
+f 7.0
+b Comp 35
+j BEGEABI
+s Comp 35
+f 4.6
+b Furs 35
+b Gold 12
+b Plat 32
+j ANLAMA
+s Furs 35
+s Gold 12
+s Plat 32
+f 4.6
+b Narc 24
+b Comp 11
+j TIINLEBI
+s Narc 24
+s Comp 11
+f 2.4
+b Furs 35
+b Gold 14
+b Plat 18
+b Gem- 14
+j ANLAMA
+s Furs 35
+s Gold 14
+s Plat 18
+s Gem- 14
+f 2.4
+b Comp 35
+j TIINLEBI
+s Comp 35
+f 2.4
+b Furs 35
+b Gold 16
+b Plat 20
+j ANLAMA
+s Furs 35
+s Gold 16
+s Plat 20
+f 2.4
+b Narc 35
+j DITIZA
+s Narc 35
+f 2.9
+b Luxu 7
+b Mach 5
+j TIINLEBI
+s Luxu 7
+s Mach 5
+f 4.7
+b Liqu 8
+b Furs 27
+b Gold 9
+b Plat 5
+b Gem- 1
+j RITILA
+s Liqu 8
+s Furs 27
+s Gold 9
+s Plat 5
+s Gem- 1
+f 1.3
+b Narc 35
+b Plat 60
+j DITIZA
+s Narc 35
+s Plat 60
+f 4.6
+b Furs 35
+b Gold 10
+b Plat 29
+b Gem- 10
+j ANLAMA
+s Furs 35
+s Gold 10
+s Plat 29
+s Gem- 10
+f 2.9
+b Narc 35
+j TIINLEBI
+s Narc 35
+f 2.4
+b Slav 4
+b Furs 31
+b Gold 13
+b Plat 9
+b Gem- 5
+j ANLAMA
+s Slav 4
+s Furs 31
+s Gold 13
+s Plat 9
+s Gem- 5
+f 2.4
+b Narc 35
+b Gem- 1
+j REBIA
+s Narc 35
+s Gem- 1
+f 7.0
+b Food 1
+b Liqu 34
+j ANLAMA
+s Food 1
+s Liqu 34
+f 7.0
+b Narc 16
+b Comp 19
+j TIINLEBI
+s Narc 16
+s Comp 19
+f 2.4
+b Furs 35
+b Gold 9
+b Plat 13
+b Gem- 9
+j ANLAMA
+s Furs 35
+s Gold 9
+s Plat 13
+s Gem- 9
+f 2.4
+b Narc 35
+j DITIZA
+s Narc 35
+f 2.9
+b Slav 2
+b Furs 33
+b Gold 10
+b Plat 5
+b Gem- 2
+j ANLAMA
+s Slav 2
+s Furs 33
+s Gold 10
+s Plat 5
+s Gem- 2
+f 2.9
+b Narc 32
+b Comp 3
+j TIINLEBI
+s Narc 32
+s Comp 3
+f 2.4
+b Furs 35
+b Gold 13
+b Plat 17
+b Gem- 13
+j ANLAMA
+s Furs 35
+s Gold 13
+s Plat 17
+s Gem- 13
+f 2.4
+b Narc 32
+b Comp 3
+j TIINLEBI
+s Narc 32
+s Comp 3
+f 2.4
+b Slav 2
+b Furs 33
+b Gold 15
+b Plat 11
+b Gem- 7
+j ANLAMA
+s Slav 2
+s Furs 33
+s Gold 15
+s Plat 11
+s Gem- 7
+f 2.4
+b Narc 35
+j DITIZA
+s Narc 35
+f 2.9
+b Liqu 1
+b Furs 34
+b Gold 8
+b Plat 19
+j ANLAMA
+s Liqu 1
+s Furs 34
+s Gold 8
+s Plat 19
+f 2.9
+b Comp 35
+j BEGEABI
+s Comp 35
+f 4.6
+b Food 10
+b Radi 25
+b Gold 11
+j TIINLEBI
+s Food 10
+s Radi 25
+s Gold 11
+f 6.7
+b Slav 3
+b Furs 32
+b Gold 14
+b Plat 10
+b Gem- 6
+j RITILA
+s Slav 3
+s Furs 32
+s Gold 14
+s Plat 10
+s Gem- 6
+f 1.3
+b Narc 35
+b Gold 7
+j ANLAMA
+s Narc 35
+s Gold 7
+f 3.1
+b Comp 35
+j TIINLEBI
+s Comp 35
+f 2.4
+b Furs 35
+b Gold 15
+b Plat 19
+b Gem- 15
+j ANLAMA
+s Furs 35
+s Gold 15
+s Plat 19
+s Gem- 15
+f 2.4
+b Narc 32
+b Comp 3
+j TIINLEBI
+s Narc 32
+s Comp 3
+f 2.4
+b Furs 35
+b Gold 9
+b Plat 29
+b Gem- 9
+j ESTEONBI
+s Furs 35
+s Gold 9
+s Plat 29
+s Gem- 9
+f 6.2
+b Narc 35
+j REBIA
+s Narc 35
+f 0.9
+b Furs 35
+b Gold 9
+b Plat 19
+b Gem- 1
+j RITILA
+s Furs 35
+s Gold 9
+s Plat 19
+s Gem- 1
+f 6.1
+b Liqu 6
+b Allo 29
+b Plat 6
+j ANLAMA
+s Liqu 6
+s Allo 29
+s Plat 6
+f 3.1
+b Narc 32
+b Comp 3
+j BEGEABI
+s Narc 32
+s Comp 3
+f 4.6
+b Slav 20
+b Narc 5
+b Furs 10
+b Gold 16
+b Plat 20
+j ANLAMA
+s Slav 20
+s Narc 5
+s Furs 10
+s Gold 16
+s Plat 20
+f 4.6
+b Comp 35
+j TIINLEBI
+s Comp 35
+f 2.4
+b Liqu 7
+b Furs 28
+b Gold 10
+b Plat 6
+b Gem- 2
+j ANLAMA
+s Liqu 7
+s Furs 28
+s Gold 10
+s Plat 6
+s Gem- 2
+f 2.4
+b Narc 35
+j DITIZA
+s Narc 35
+f 2.9
+b Furs 35
+b Gold 11
+b Plat 6
+b Gem- 3
+j ANLAMA
+s Furs 35
+s Gold 11
+s Plat 6
+s Gem- 3
+f 2.9
+b Comp 35
+j BEGEABI
+s Comp 35
+f 4.6
+b Furs 35
+b Gold 14
+b Gem- 6
+j ANLAMA
+s Furs 35
+s Gold 14
+s Gem- 6
+f 4.6
+b Narc 35
+b Plat 59
+j DITIZA
+s Narc 35
+s Plat 59
+f 2.9
+b Furs 35
+b Gold 15
+b Plat 26
+b Gem- 7
+j ANLAMA
+s Furs 35
+s Gold 15
+s Plat 26
+s Gem- 7
+f 2.9
+b Narc 32
+b Comp 3
+j REBIA
+s Narc 32
+s Comp 3
+f 7.0
+b Furs 35
+b Gold 8
+b Plat 10
+b Gem- 8
+j ANLAMA
+s Furs 35
+s Gold 8
+s Plat 10
+s Gem- 8
+f 7.0
+b Narc 35
+j BEGEABI
+s Narc 35
+f 4.6
+b Furs 35
+b Gold 12
+b Plat 16
+j ANLAMA
+s Furs 35
+s Gold 12
+s Plat 16
+f 4.6
+b Comp 35
+b Plat 57
+j TIINLEBI
+s Comp 35
+s Plat 57
+f 2.4
+b Liqu 11
+b Furs 24
+b Gold 14
+b Gem- 14
+j ANLAMA
+s Liqu 11
+s Furs 24
+s Gold 14
+s Gem- 14
+f 2.4
+b Narc 35
+b Plat 3
+j REBIA
+s Narc 35
+s Plat 3
+f 7.0
+b Liqu 27
+b Furs 8
+b Gold 14
+j ANLAMA
+s Liqu 27
+s Furs 8
+s Gold 14
+f 7.0
+b Narc 35
+j DITIZA
+s Narc 35
+f 2.9
+b Furs 35
+b Gold 9
+b Plat 20
+b Gem- 1
+j RITILA
+s Furs 35
+s Gold 9
+s Plat 20
+s Gem- 1
+f 4.6
+b Radi 5
+b Furs 21
+b Mine 9
+b Gold 3
+b Plat 9
+j ANLAMA
+s Radi 5
+s Furs 21
+s Mine 9
+s Gold 3
+s Plat 9
+f 3.1
+b Narc 35
+j TIINLEBI
+s Narc 35
+f 2.4
+b Furs 35
+b Gold 11
+b Plat 15
+b Gem- 11
+j ANLAMA
+s Furs 35
+s Gold 11
+s Plat 15
+s Gem- 11
+f 2.4
+b Narc 35
+b Plat 60
+j REBIA
+s Narc 35
+s Plat 60
+f 7.0
+b Furs 35
+b Gold 11
+b Gem- 3
+j ANLAMA
+s Furs 35
+s Gold 11
+s Gem- 3
+f 7.0
+b Narc 35
+j TIINLEBI
+s Narc 35
+f 2.4
+b Slav 19
+b Liqu 7
+b Furs 9
+b Gold 15
+b Plat 19
+b Gem- 15
+j RITILA
+s Slav 19
+s Liqu 7
+s Furs 9
+s Gold 15
+s Plat 19
+s Gem- 15
+f 1.3
+b Narc 35
+j BEGEABI
+s Narc 35
+f 6.8
+b Liqu 35
+b Gold 9
+b Plat 29
+b Gem- 9
+j ANLAMA
+s Liqu 35
+s Gold 9
+s Plat 29
+s Gem- 9
+f 4.6
+b Narc 32
+b Comp 3
+j TIINLEBI
+s Narc 32
+s Comp 3
+f 2.4
+b Furs 35
+b Gold 11
+b Plat 23
+b Gem- 3
+j ANLAMA
+s Furs 35
+s Gold 11
+s Plat 23
+s Gem- 3
+f 2.4
+b Comp 5
+b Allo 30
+b Plat 4
+j RITILA
+s Comp 5
+s Allo 30
+s Plat 4
+f 3.1
+b Narc 35
+j BEGEABI
+s Narc 35
+f 6.8
+b Furs 35
+b Gold 16
+b Plat 20
+j ANLAMA
+s Furs 35
+s Gold 16
+s Plat 20
+f 4.6
+b Narc 35
+j TIINLEBI
+s Narc 35
+f 2.4
+b Slav 4
+b Liqu 31
+b Gold 10
+b Plat 6
+b Gem- 2
+j ANLAMA
+s Slav 4
+s Liqu 31
+s Gold 10
+s Plat 6
+s Gem- 2
+f 2.4
+b Comp 35
+j BEGEABI
+s Comp 35
+f 4.6
+b Slav 5
+b Furs 30
+b Gold 12
+b Plat 8
+b Gem- 4
+j ANLAMA
+s Slav 5
+s Furs 30
+s Gold 12
+s Plat 8
+s Gem- 4
+f 4.6
+b Narc 32
+b Comp 3
+j REBIA
+s Narc 32
+s Comp 3
+f 7.0
+b Radi 10
+b Liqu 25
+b Gold 12
+b Gem- 4
+j ANLAMA
+s Radi 10
+s Liqu 25
+s Gold 12
+s Gem- 4
+f 7.0
+b Comp 35
+b Plat 59
+j TIINLEBI
+s Comp 35
+s Plat 59
+f 2.4
+b Liqu 17
+b Furs 18
+b Gold 16
+b Plat 28
+b Gem- 8
+j RITILA
+s Liqu 17
+s Furs 18
+s Gold 16
+s Plat 28
+s Gem- 8
+f 1.3
+b Narc 35
+j ANLAMA
+s Narc 35
+f 3.1
+b Comp 35
+j TIINLEBI
+s Comp 35
+f 2.4
+b Furs 35
+b Gold 9
+b Plat 13
+b Gem- 9
+j ANLAMA
+s Furs 35
+s Gold 9
+s Plat 13
+s Gem- 9
+f 2.4
+b Narc 35
+j TIINLEBI
+s Narc 35
+f 2.4
+b Slav 7
+b Furs 28
+b Gold 11
+b Plat 7
+b Gem- 3
+j ANLAMA
+s Slav 7
+s Furs 28
+s Gold 11
+s Plat 7
+s Gem- 3
+f 2.4
+b Narc 32
+b Comp 3
+j TIINLEBI
+s Narc 32
+s Comp 3
+f 2.4
+b Furs 35
+b Gold 13
+b Plat 17
+b Gem- 13
+j ANLAMA
+s Furs 35
+s Gold 13
+s Plat 17
+s Gem- 13
+f 2.4
+b Narc 32
+b Comp 3
+j TIINLEBI
+s Narc 32
+s Comp 3
+f 2.4
+b Slav 2
+b Furs 33
+b Gold 15
+b Plat 11
+b Gem- 7
+j RITILA
+s Slav 2
+s Furs 33
+s Gold 15
+s Plat 11
+s Gem- 7
+f 1.3
+b Food 1
+b Radi 6
+b Liqu 1
+b Narc 27
+b Plat 10
+j ANLAMA
+s Food 1
+s Radi 6
+s Liqu 1
+s Narc 27
+s Plat 10
+f 3.1
+b Comp 35
+j TIINLEBI
+s Comp 35
+f 2.4
+b Furs 35
+b Gold 12
+b Plat 24
+b Gem- 4
+j ANLAMA
+s Furs 35
+s Gold 12
+s Plat 24
+s Gem- 4
+f 2.4
+b Narc 35
+j BEGEABI
+s Narc 35
+f 4.6
+b Slav 3
+b Furs 32
+b Gold 14
+b Plat 10
+b Gem- 6
+j ANLAMA
+s Slav 3
+s Furs 32
+s Gold 14
+s Plat 10
+s Gem- 6
+f 4.6
+b Comp 35
+j TIINLEBI
+s Comp 35
+f 2.4
+b Liqu 1
+b Furs 34
+b Gold 16
+b Plat 12
+b Gem- 8
+j RITILA
+s Liqu 1
+s Furs 34
+s Gold 16
+s Plat 12
+s Gem- 8
+f 1.3
+b Narc 35
+b Plat 7
+j DITIZA
+s Narc 35
+s Plat 7
+f 4.6
+b Furs 35
+b Gold 9
+b Plat 28
+b Gem- 9
+j ANLAMA
+s Furs 35
+s Gold 9
+s Plat 28
+s Gem- 9
+f 2.9
+b Narc 32
+b Comp 3
+j REBIA
+s Narc 32
+s Comp 3
+f 7.0
+b Liqu 31
+b Furs 4
+b Gold 10
+b Plat 28
+j ANLAMA
+s Liqu 31
+s Furs 4
+s Gold 10
+s Plat 28
+f 7.0
+b Narc 35
+j TIINLEBI
+s Narc 35
+f 2.4
+b Slav 18
+b Liqu 9
+b Furs 8
+b Gold 14
+b Plat 18
+b Gem- 14
+j ANLAMA
+s Slav 18
+s Liqu 9
+s Furs 8
+s Gold 14
+s Plat 18
+s Gem- 14
+f 2.4
+b Narc 32
+b Comp 3
+j REBIA
+s Narc 32
+s Comp 3
+f 7.0
+b Slav 10
+b Furs 25
+b Gold 14
+b Plat 16
+j ANLAMA
+s Slav 10
+s Furs 25
+s Gold 14
+s Plat 16
+f 7.0
+b Narc 24
+b Comp 11
+j BEGEABI
+s Narc 24
+s Comp 11
+f 4.6
+b Liqu 7
+b Furs 28
+b Gold 10
+b Plat 6
+b Gem- 2
+j ANLAMA
+s Liqu 7
+s Furs 28
+s Gold 10
+s Plat 6
+s Gem- 2
+f 4.6
+b Narc 35
+j TIINLEBI
+s Narc 35
+f 2.4
+b Furs 35
+b Gold 12
+b Plat 8
+b Gem- 4
+j RITILA
+s Furs 35
+s Gold 12
+s Plat 8
+s Gem- 4
+f 1.3
+b Narc 35
+j BEGEABI
+s Narc 35
+f 6.8
+b Furs 35
+b Gold 14
+b Gem- 6
+j ANLAMA
+s Furs 35
+s Gold 14
+s Gem- 6
+f 4.6
+b Narc 35
+b Plat 59
+j BEGEABI
+s Narc 35
+s Plat 59
+f 4.6
+b Furs 35
+b Gold 16
+b Plat 28
+b Gem- 8
+j ANLAMA
+s Furs 35
+s Gold 16
+s Plat 28
+s Gem- 8
+f 4.6
+b Narc 32
+b Comp 3
+j TIINLEBI
+s Narc 32
+s Comp 3
+f 2.4
+b Liqu 31
+b Furs 4
+b Gold 10
+b Plat 14
+b Gem- 10
+j ANLAMA
+s Liqu 31
+s Furs 4
+s Gold 10
+s Plat 14
+s Gem- 10
+f 2.4
+b Narc 35
+j TIINLEBI
+s Narc 35
+f 2.4
+b Furs 35
+b Gold 12
+b Plat 16
+j RITILA
+s Furs 35
+s Gold 12
+s Plat 16
+f 1.3
+b Narc 35
+b Plat 59
+j REBIA
+s Narc 35
+s Plat 59
+f 6.1
+b Liqu 29
+b Furs 6
+b Gold 12
+b Gem- 12
+j ANLAMA
+s Liqu 29
+s Furs 6
+s Gold 12
+s Gem- 12
+f 7.0
+b Narc 35
+b Plat 3
+j TIINLEBI
+s Narc 35
+s Plat 3
+f 2.4
+b Liqu 9
+b Furs 26
+b Gold 16
+j ANLAMA
+s Liqu 9
+s Furs 26
+s Gold 16
+f 2.4
+b Narc 35
+j TIINLEBI
+s Narc 35
+f 2.4
+b Furs 35
+b Gold 10
+b Plat 22
+b Gem- 2
+j ANLAMA
+s Furs 35
+s Gold 10
+s Plat 22
+s Gem- 2
+f 2.4
+b Narc 35
+j REBIA
+s Narc 35
+f 7.0
+b Slav 12
+b Liqu 23
+b Gold 10
+b Gem- 2
+j RITILA
+s Slav 12
+s Liqu 23
+s Gold 10
+s Gem- 2
+f 6.1
+b Narc 35
+j DITIZA
+s Narc 35
+f 4.6
+b Furs 35
+b Gold 13
+b Plat 8
+b Gem- 5
+j ANLAMA
+s Furs 35
+s Gold 13
+s Plat 8
+s Gem- 5
+f 2.9
+b Narc 35
+j DITIZA
+s Narc 35
+f 2.9
+b Furs 35
+b Gold 15
+b Plat 10
+b Gem- 7
+j ANLAMA
+s Furs 35
+s Gold 15
+s Plat 10
+s Gem- 7
+f 2.9
+b Narc 35
+b Plat 5
+j REBIA
+s Narc 35
+s Plat 5
+f 7.0
+b Slav 4
+b Liqu 29
+b Furs 2
+b Gold 8
+b Plat 26
+b Gem- 8
+j ANLAMA
+s Slav 4
+s Liqu 29
+s Furs 2
+s Gold 8
+s Plat 26
+s Gem- 8
+f 7.0
+b Comp 35
+j TIINLEBI
+s Comp 35
+f 2.4
+b Furs 35
+b Gold 12
+b Plat 32
+j ANLAMA
+s Furs 35
+s Gold 12
+s Plat 32
+f 2.4
+b Narc 24
+b Comp 11
+j TIINLEBI
+s Narc 24
+s Comp 11
+f 2.4
+b Furs 35
+b Gold 14
+b Plat 18
+b Gem- 14
+j RITILA
+s Furs 35
+s Gold 14
+s Plat 18
+s Gem- 14
+f 1.3
+b Narc 35
+b Gold 7
+b Gem- 7
+j ANLAMA
+s Narc 35
+s Gold 7
+s Gem- 7
+f 3.1
+b Comp 35
+j TIINLEBI
+s Comp 35
+f 2.4
+b Liqu 18
+b Furs 17
+b Gold 15
+b Gem- 7
+j ANLAMA
+s Liqu 18
+s Furs 17
+s Gold 15
+s Gem- 7
+f 2.4
+b Narc 35
+j TIINLEBI
+s Narc 35
+f 2.4
+b Liqu 8
+b Furs 27
+b Gold 9
+b Plat 5
+b Gem- 1
+j RITILA
+s Liqu 8
+s Furs 27
+s Gold 9
+s Plat 5
+s Gem- 1
+f 1.3
+b Narc 35
+b Plat 60
+j DITIZA
+s Narc 35
+s Plat 60
+f 4.6
+b Furs 35
+b Gold 10
+b Plat 29
+b Gem- 10
+j ANLAMA
+s Furs 35
+s Gold 10
+s Plat 29
+s Gem- 10
+f 2.9
+b Narc 35
+j TIINLEBI
+s Narc 35
+f 2.4
+b Slav 4
+b Furs 31
+b Gold 13
+b Plat 9
+b Gem- 5
+j ANLAMA
+s Slav 4
+s Furs 31
+s Gold 13
+s Plat 9
+s Gem- 5
+f 2.4
+b Narc 35
+b Gem- 1
+j REBIA
+s Narc 35
+s Gem- 1
+f 7.0
+b Food 1
+b Liqu 34
+j RITILA
+s Food 1
+s Liqu 34
+f 6.1
+b Narc 35
+b Plat 2
+j ANLAMA
+s Narc 35
+s Plat 2
+f 3.1
+b Comp 35
+j BEGEABI
+s Comp 35
+f 4.6
+b Liqu 29
+b Furs 6
+b Gold 12
+b Plat 16
+j RITILA
+s Liqu 29
+s Furs 6
+s Gold 12
+s Plat 16
+f 6.8
+b Food 1
+b Radi 7
+b Liqu 2
+b Allo 18
+b Furs 7
+b Gold 5
+b Plat 59
+j ANLAMA
+s Food 1
+s Radi 7
+s Liqu 2
+s Allo 18
+s Furs 7
+s Gold 5
+s Plat 59
+f 3.1
+b Narc 32
+b Comp 3
+j TIINLEBI
+s Narc 32
+s Comp 3
+f 2.4
+b Furs 35
+b Gold 13
+b Plat 17
+b Gem- 13
+j ANLAMA
+s Furs 35
+s Gold 13
+s Plat 17
+s Gem- 13
+f 2.4
+b Narc 32
+b Comp 3
+j TIINLEBI
+s Narc 32
+s Comp 3
+f 2.4
+b Slav 2
+b Furs 33
+b Gold 15
+b Plat 11
+b Gem- 7
+j ANLAMA
+s Slav 2
+s Furs 33
+s Gold 15
+s Plat 11
+s Gem- 7
+f 2.4
+b Narc 35
+j DITIZA
+s Narc 35
+f 2.9
+b Luxu 6
+b Mach 4
+b Allo 25
+b Gold 8
+b Plat 19
+j BEGEABI
+s Luxu 6
+s Mach 4
+s Allo 25
+s Gold 8
+s Plat 19
+f 2.2
+b Furs 35
+b Gold 12
+b Plat 24
+b Gem- 4
+j ANLAMA
+s Furs 35
+s Gold 12
+s Plat 24
+s Gem- 4
+f 4.6
+b Narc 35
+j TIINLEBI
+s Narc 35
+f 2.4
+b Slav 3
+b Furs 32
+b Gold 14
+b Plat 10
+b Gem- 6
+j RITILA
+s Slav 3
+s Furs 32
+s Gold 14
+s Plat 10
+s Gem- 6
+f 1.3
+b Narc 35
+b Gold 7
+j ANLAMA
+s Narc 35
+s Gold 7
+f 3.1
+b Comp 35
+j TIINLEBI
+s Comp 35
+f 2.4
+b Furs 35
+b Gold 15
+b Plat 19
+b Gem- 15
+j ANLAMA
+s Furs 35
+s Gold 15
+s Plat 19
+s Gem- 15
+f 2.4
+b Narc 32
+b Comp 3
+j TIINLEBI
+s Narc 32
+s Comp 3
+f 2.4
+b Furs 35
+b Gold 9
+b Plat 29
+b Gem- 9
+j ESTEONBI
+s Furs 35
+s Gold 9
+s Plat 29
+s Gem- 9
+f 6.2
+b Narc 35
+j REBIA
+s Narc 35
+f 0.9
+b Furs 35
+b Gold 9
+b Plat 19
+b Gem- 1
+j ANLAMA
+s Furs 35
+s Gold 9
+s Plat 19
+s Gem- 1
+f 7.0
+b Narc 35
+b Plat 4
+j TIINLEBI
+s Narc 35
+s Plat 4
+f 2.4
+b Furs 35
+b Gold 13
+b Gem- 13
+j RITILA
+s Furs 35
+s Gold 13
+s Gem- 13
+f 1.3
+b Narc 19
+b Allo 16
+b Plat 8
+j ANLAMA
+s Narc 19
+s Allo 16
+s Plat 8
+f 3.1
+b Comp 35
+j TIINLEBI
+s Comp 35
+f 2.4
+b Liqu 7
+b Furs 28
+b Gold 10
+b Plat 6
+b Gem- 2
+j ANLAMA
+s Liqu 7
+s Furs 28
+s Gold 10
+s Plat 6
+s Gem- 2
+f 2.4
+b Narc 35
+j DITIZA
+s Narc 35
+f 2.9
+b Furs 35
+b Gold 11
+b Plat 6
+b Gem- 3
+j ANLAMA
+s Furs 35
+s Gold 11
+s Plat 6
+s Gem- 3
+f 2.9
+b Comp 35
+j TIINLEBI
+s Comp 35
+f 2.4
+b Furs 35
+b Gold 14
+b Gem- 6
+j ANLAMA
+s Furs 35
+s Gold 14
+s Gem- 6
+f 2.4
+b Narc 35
+b Plat 59
+j DITIZA
+s Narc 35
+s Plat 59
+f 2.9
+b Furs 35
+b Gold 15
+b Plat 26
+b Gem- 7
+j ANLAMA
+s Furs 35
+s Gold 15
+s Plat 26
+s Gem- 7
+f 2.9
+b Narc 32
+b Comp 3
+j REBIA
+s Narc 32
+s Comp 3
+f 7.0
+b Furs 35
+b Gold 8
+b Plat 10
+b Gem- 8
+j ANLAMA
+s Furs 35
+s Gold 8
+s Plat 10
+s Gem- 8
+f 7.0
+b Narc 35
+j TIINLEBI
+s Narc 35
+f 2.4
+b Furs 35
+b Gold 12
+b Plat 16
+j ANLAMA
+s Furs 35
+s Gold 12
+s Plat 16
+f 2.4
+b Comp 35
+b Plat 57
+j TIINLEBI
+s Comp 35
+s Plat 57
+f 2.4
+b Liqu 11
+b Furs 24
+b Gold 14
+b Gem- 14
+j ANLAMA
+s Liqu 11
+s Furs 24
+s Gold 14
+s Gem- 14
+f 2.4
+b Narc 35
+b Plat 3
+j REBIA
+s Narc 35
+s Plat 3
+f 7.0
+b Liqu 27
+b Furs 8
+b Gold 14
+j ANLAMA
+s Liqu 27
+s Furs 8
+s Gold 14
+f 7.0
+b Narc 35
+j DITIZA
+s Narc 35
+q
