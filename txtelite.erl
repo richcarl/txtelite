@@ -71,12 +71,19 @@
 %%  uint population    // One byte
 %%  uint productivity  // Two byte
 %%  uint radius        // Two byte (not used by game at all)
+%%  uint human_colony; // boolean
+%%  uint species_type;
+%%  uint species_adj1;
+%%  uint species_adj2;
+%%  uint species_adj3;
 %%  fastseedtype goatsoupseed
 %%  char name[12]
 
 -record(plansys,
 	{x, y, economy, govtype, techlev, population,
-	 productivity, radius, goatsoupseed, name}).
+	 productivity, radius, human_colony, species_type,
+	 species_adj1, species_adj2, species_adj3,
+	 goatsoupseed, name}).
 
 %% Player workspace
 %%
@@ -109,6 +116,28 @@ econnames() ->
      <<"Average Agricultural">>, <<"Poor Agricultural">>}.
 
 get_econname(I) -> index(I, econnames()).
+
+species_statures() -> { <<"Large">>, <<"Fierce">>, <<"Small">> }.
+
+get_species_stature(I) -> index(I, species_statures()).
+
+species_colorations() ->
+    { <<"Green">>, <<"Red">>, <<"Yellow">>,
+      <<"Blue">>, <<"Black">>, <<"Harmless">> }.
+
+get_species_coloration(I) -> index(I, species_colorations()).
+
+species_characteristics() ->
+    { <<"Slimy">>, <<"Bug-Eyed">>, <<"Horned">>,
+      <<"Bony">>, <<"Fat">>, <<"Furry">> }.
+
+get_species_characteristic(I) -> index(I, species_characteristics()).
+
+species_base_types() ->
+    { <<"Rodents">>, <<"Frogs">>, <<"Lizards">>, <<"Lobsters">>,
+      <<"Birds">>, <<"Humanoids">>, <<"Felines">>, <<"Insects">> }.
+
+get_species_base_type(I) -> index(I, species_base_types()).
 
 unitnames() -> {<<"t">>, <<"kg">>, <<"g">>}.
 
@@ -311,6 +340,12 @@ makesystem(Seed0) ->
     D = W2 bsr 8,
     Goatsoupseed = {A, B, C, D},
 
+    HumanColony = (C band 16#80) =:= 0,
+    SpeciesAdj1 = (D bsr 2) band 3,
+    SpeciesAdj2 = (D bsr 5) band 7,
+    SpeciesAdj3 = (X bxor Y) band 7,
+    SpeciesType = (SpeciesAdj3 + (D band 3)) band 7,
+
     Pair1 = 2*((W2 bsr 8) band 31),
     Seed1 = tweakseed(Seed0),
     {_, _, W22} = Seed1,
@@ -339,6 +374,9 @@ makesystem(Seed0) ->
     {#plansys{x = X, y = Y, economy = Economy, govtype = Govtype,
 	      techlev = Techlev, population = Population,
 	      productivity = Productivity, radius = Radius,
+              human_colony = HumanColony, species_type = SpeciesType,
+              species_adj1 = SpeciesAdj1, species_adj2 = SpeciesAdj2,
+              species_adj3 = SpeciesAdj3,
 	      goatsoupseed = Goatsoupseed, name = Name
 	     },
      Seed4}.
@@ -602,10 +640,11 @@ atof(S) ->
 %%  ftoi
 ftoi(Value) -> trunc(Value + 0.5).
 
-rand() -> random:uniform(32768) - 1.  %% emulated std C rand()
+rand() -> rand:uniform(32768) - 1.  %% emulated std C rand()
 
 mysrand(Seed) ->
-    random:seed(Seed div 3, Seed div 5, Seed div 7),  % Erlang stdlib seeding
+    %% Erlang stdlib seeding
+    rand:seed(exsss, {Seed div 3, Seed div 5, Seed div 7}),
     put(lastrand, Seed - 1).
 
 myrand() ->
@@ -622,9 +661,6 @@ myrand() ->
 	    put(lastrand, R - 1),
 	    R
     end.
-
-min(A, B) when A < B -> A;
-min(_, B) -> B.
 
 %% zero-based tuple indexing
 index(I, T) -> element(I+1, T).
@@ -700,6 +736,29 @@ prisys_full(#plansys{}=Plsy) ->
     io:format("\nRadius: ~w", [Plsy#plansys.radius]),
     %% Correction from txtelite 1.4: divide population by 10, not by 8:
     io:format("\nPopulation: ~.1f Billion", [Plsy#plansys.population/10]),
+    io:format("\nSpecies: "),
+    case Plsy#plansys.human_colony of
+        true ->
+          io:format("Human Colonials\n");
+        false ->
+            if Plsy#plansys.species_adj1 < 3 ->
+                    io:format("~s ", [get_species_stature(
+                                        Plsy#plansys.species_adj1)]);
+               true -> ok
+            end,
+            if Plsy#plansys.species_adj2 < 6 ->
+                    io:format("~s ", [get_species_coloration(
+                                        Plsy#plansys.species_adj2)]);
+               true -> ok
+            end,
+            if Plsy#plansys.species_adj3 < 6 ->
+                    io:format("~s ", [get_species_characteristic(
+                                        Plsy#plansys.species_adj3)]);
+               true -> ok
+            end,
+            io:format("~s\n", [get_species_base_type(
+                                 Plsy#plansys.species_type)])
+    end,
     io:format("\n"),
     io:put_chars(goat_soup(Plsy)).
 
