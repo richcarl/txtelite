@@ -80,6 +80,11 @@ typedef struct
    myuint population;   /* One byte */
    myuint productivity; /* Two byte */
    myuint radius; /* Two byte (not used by game at all) */
+   myuint human_colony;
+   myuint species_type;
+   myuint species_adj1;
+   myuint species_adj2;
+   myuint species_adj3;
 	fastseedtype	goatsoupseed;
    char name[12];
 } plansys ;
@@ -159,6 +164,13 @@ char govnames[][maxlen]={"Anarchy","Feudal","Multi-gov","Dictatorship",
 char econnames[][maxlen]={"Rich Ind","Average Ind","Poor Ind","Mainly Ind",
                       "Mainly Agri","Rich Agri","Average Agri","Poor Agri"};
 
+char species_stature[3][maxlen] = { "Large", "Fierce", "Small" };
+char species_coloration[6][maxlen] = { "Green", "Red", "Yellow", "Blue",
+                                       "Black", "Harmless" };
+char species_characteristics[6][maxlen] = { "Slimy", "Bug-Eyed", "Horned",
+                                            "Bony", "Fat", "Furry" };
+char species_base_type[8][maxlen] = { "Rodents", "Frogs", "Lizards", "Lobsters",
+                                   "Birds", "Humanoids", "Felines", "Insects" };
 
 char unitnames[][5] ={"t","kg","g"};
 
@@ -457,6 +469,12 @@ plansys makesystem(seedtype *s)
 	thissys.goatsoupseed.c = (*s).w2 & 0xFF;
 	thissys.goatsoupseed.d = (*s).w2 >> 8;
 
+  thissys.human_colony = !(thissys.goatsoupseed.c & 0x80);
+  thissys.species_adj1 = (thissys.goatsoupseed.d >> 2) & 3;
+  thissys.species_adj2 = (thissys.goatsoupseed.d >> 5) & 7;
+  thissys.species_adj3 = (thissys.x ^ thissys.y) & 7;
+  thissys.species_type = (thissys.species_adj3 + (thissys.goatsoupseed.d & 3)) & 7;
+
   pair1=2*((((*s).w2)>>8)&31);  tweakseed(s);
   pair2=2*((((*s).w2)>>8)&31);  tweakseed(s);
   pair3=2*((((*s).w2)>>8)&31);  tweakseed(s);
@@ -546,7 +564,6 @@ planetnum matchsys(char *s)
 	return p;
 }
 
-
 /**-Print data for given system **/
 void prisys(plansys plsy,boolean compressed)
 {	if (compressed)
@@ -573,6 +590,25 @@ void prisys(plansys plsy,boolean compressed)
            float with 1 decimal */
   	printf("\nPopulation: %.1f Billion",(plsy.population) / 10.0);
 	
+        /* added (R.C.): print species - original C code by Björn Paulsen */
+	printf("\nSpecies: ");
+        if (plsy.human_colony) {
+          printf("Human Colonials\n");
+        }
+        else
+        {
+            if (plsy.species_adj1 < 3) {
+              printf("%s ", species_stature[plsy.species_adj1]);
+            }
+            if (plsy.species_adj2 < 6) {
+              printf("%s ", species_coloration[plsy.species_adj2]);
+            }
+            if (plsy.species_adj3 < 6) {
+              printf("%s ", species_characteristics[plsy.species_adj3]);
+            }
+            printf("%s\n", species_base_type[plsy.species_type]);
+        }
+
 		rnd_seed = plsy.goatsoupseed;
 		printf("\n");goat_soup("\x8F is \x97.",&plsy);
 	}
